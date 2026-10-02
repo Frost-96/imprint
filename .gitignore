@@ -1,0 +1,21 @@
+# Generated design output and local workspace data
+/output/
+/outputs/
+/.local/
+
+# Local secrets and environment settings
+.env
+.env.*
+!.env.example
+
+# Tool caches and platform/editor files
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+._*
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
