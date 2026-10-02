@@ -1,0 +1,184 @@
+{
+  "case": "Peel Parade",
+  "file_status": "PASS",
+  "failures": [],
+  "sources": [
+    {
+      "file": "sources/logo-color.svg",
+      "sha256": "fef10f6706181441b2be86f38a951b41b69a452f97cc4a28a0cf18980e9d55d2",
+      "canvas": [
+        631,
+        232
+      ],
+      "visible_bounds": [
+        24,
+        20,
+        607,
+        207
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/logo-black.svg",
+      "sha256": "fa8def68542b459e295e2149a0111b76207d2178f28411052076c66ccc574a02",
+      "canvas": [
+        631,
+        232
+      ],
+      "visible_bounds": [
+        24,
+        20,
+        607,
+        207
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/logo-white.svg",
+      "sha256": "9cb35be0812520f0bf22cc8b18e09550da77e65b671fd61df65a5cf70eef84e8",
+      "canvas": [
+        631,
+        232
+      ],
+      "visible_bounds": [
+        24,
+        20,
+        607,
+        207
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/wordmark-color.svg",
+      "sha256": "3392b12507286ddd1243b7c4b0eb05d73c4fa9b524decf9eab0ceccbd7bbdc44",
+      "canvas": [
+        397,
+        227
+      ],
+      "visible_bounds": [
+        20,
+        20,
+        377,
+        207
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/wordmark-black.svg",
+      "sha256": "ee40e7eae7159207d09fb706836f7b269b8d8a7e2b9b27af80f4efaf7c54b706",
+      "canvas": [
+        397,
+        227
+      ],
+      "visible_bounds": [
+        20,
+        20,
+        377,
+        207
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/wordmark-white.svg",
+      "sha256": "bf4a0d884018bb4c9bf89871fc40e3370756b4bf608b054b37e4cccc2cf96649",
+      "canvas": [
+        397,
+        227
+      ],
+      "visible_bounds": [
+        20,
+        20,
+        377,
+        207
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/mark-color.svg",
+      "sha256": "86923c49d810e946dfb1d6bde11e4e49d968f84b2ce9a6012f1439024e5b96df",
+      "canvas": [
+        256,
+        256
+      ],
+      "visible_bounds": [
+        15,
+        40,
+        186,
+        227
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/mark-black.svg",
+      "sha256": "6de195dcabe61110ec142d19922a2262740c9b9c30adb7f390af3f32754dc624",
+      "canvas": [
+        256,
+        256
+      ],
+      "visible_bounds": [
+        15,
+        40,
+        186,
+        227
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/mark-white.svg",
+      "sha256": "115328c16a299427b57d1de5df8b81da0a09973ba3b882469fcafec1a3962e61",
+      "canvas": [
+        256,
+        256
+      ],
+      "visible_bounds": [
+        15,
+        40,
+        186,
+        227
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/wordmark-text.svg",
+      "sha256": "e0fec6231c9f2e6c4c0696194c854613e797dd8d8e91788aa3f17b5ec10bad9c",
+      "canvas": [
+        397,
+        227
+      ],
+      "visible_bounds": [
+        20,
+        20,
+        377,
+        207
+      ],
+      "text_source": true
+    },
+    {
+      "file": "sources/mark-small.svg",
+      "sha256": "21e250367dbcb5062784c36ade9f99b8e7498e78807ee160499beba965a62643",
+      "canvas": [
+        256,
+        256
+      ],
+      "visible_bounds": [
+        15,
+        40,
+        186,
+        227
+      ],
+      "text_source": false
+    }
+  ],
+  "font_render_comparison": {
+    "width": 2400,
+    "alpha_iou": 1.0,
+    "rgba_mean_absolute_error": 7.2780203784570594e-06
+  },
+  "visual_status": "Reviewed: three concepts, monochrome refinement, 1024 px master, 256/64/32/16 px studies, actual minimum-width lockup, finished light/dark board and wall.",
+  "name_status": "provisional; limited public search only",
+  "external_visual_screening": "not completed",
+  "full_logo_minimum_width": 180,
+  "recommended_mark_minimum_px": 32,
+  "visual_limitations": "16 px 为减细节版，完整果瓣轮廓在 32 px 以上更明确。",
+  "visual_review_is_model_judgment": true
+}

@@ -1,0 +1,184 @@
+{
+  "case": "Crust Chapter",
+  "file_status": "PASS",
+  "failures": [],
+  "sources": [
+    {
+      "file": "sources/logo-color.svg",
+      "sha256": "857a1895f45e56c252d07aa501975ce70fba2afb2aa8accc63e9a9ae10bc053e",
+      "canvas": [
+        360,
+        420
+      ],
+      "visible_bounds": [
+        35,
+        39,
+        325,
+        391
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/logo-black.svg",
+      "sha256": "14b5482aef9f38bab66ae0d3368a17b98f6b4f9c5c10363820ef66438d37abb2",
+      "canvas": [
+        360,
+        420
+      ],
+      "visible_bounds": [
+        35,
+        39,
+        325,
+        391
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/logo-white.svg",
+      "sha256": "eab9852a19e2e7c4b8d29b6b4b1495990d72059c01bd2e4c00daa7ac4a47bc27",
+      "canvas": [
+        360,
+        420
+      ],
+      "visible_bounds": [
+        35,
+        39,
+        325,
+        391
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/wordmark-color.svg",
+      "sha256": "3dad020ff2d6bc78bb488cf2c50c84a54ded0c110eb3320f8a57af67c14fd227",
+      "canvas": [
+        329,
+        190
+      ],
+      "visible_bounds": [
+        20,
+        20,
+        309,
+        170
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/wordmark-black.svg",
+      "sha256": "99fcec74b9dd6745f52b044942c874a2c54ebfd3e37187e90e4b5b25439c6c57",
+      "canvas": [
+        329,
+        190
+      ],
+      "visible_bounds": [
+        20,
+        20,
+        309,
+        170
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/wordmark-white.svg",
+      "sha256": "2b6998129777537c6adfba1420938a6a6ad8f6eef5e4b560cfaacc66b54522c0",
+      "canvas": [
+        329,
+        190
+      ],
+      "visible_bounds": [
+        20,
+        20,
+        309,
+        170
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/mark-color.svg",
+      "sha256": "30485d3f1e140baf1790f80f1f24cfc8bf818d610246267ddc7be84b3286d194",
+      "canvas": [
+        256,
+        256
+      ],
+      "visible_bounds": [
+        34,
+        34,
+        222,
+        228
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/mark-black.svg",
+      "sha256": "ddc4628bd5cef9b539038bd3ffeb9edd297b00c66433b2576673ef63c02c3b8f",
+      "canvas": [
+        256,
+        256
+      ],
+      "visible_bounds": [
+        34,
+        34,
+        222,
+        228
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/mark-white.svg",
+      "sha256": "64e9f76d58c6d794404d68af08e71db5f1b772d060f7b110ae93a23696f63e63",
+      "canvas": [
+        256,
+        256
+      ],
+      "visible_bounds": [
+        34,
+        34,
+        222,
+        228
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/wordmark-text.svg",
+      "sha256": "d519189412e027779cd41997865a479453d9a52de210636f7e92383e0c23e565",
+      "canvas": [
+        329,
+        190
+      ],
+      "visible_bounds": [
+        20,
+        20,
+        309,
+        170
+      ],
+      "text_source": true
+    },
+    {
+      "file": "sources/mark-small.svg",
+      "sha256": "16f49b79bfe678e21628e3d37b0824aba730f4d80d4b35a88cb940297ea28722",
+      "canvas": [
+        256,
+        256
+      ],
+      "visible_bounds": [
+        34,
+        34,
+        222,
+        228
+      ],
+      "text_source": false
+    }
+  ],
+  "font_render_comparison": {
+    "width": 2400,
+    "alpha_iou": 1.0,
+    "rgba_mean_absolute_error": 0.0
+  },
+  "visual_status": "Reviewed: three concepts, monochrome refinement, 1024 px master, 256/64/32/16 px studies, actual minimum-width lockup, finished light/dark board and wall.",
+  "name_status": "provisional; limited public search only",
+  "external_visual_screening": "not completed",
+  "full_logo_minimum_width": 230,
+  "recommended_mark_minimum_px": 16,
+  "visual_limitations": "小版扩大割纹，不把两行字标强压进 16 px。",
+  "visual_review_is_model_judgment": true
+}

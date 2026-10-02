@@ -1,0 +1,67 @@
+{
+  "name": "Long Aside",
+  "minimum_logo_width": 320,
+  "minimum_full_mark": 32,
+  "variants": {
+    "logo-color": {
+      "width": 603.3795,
+      "height": 358,
+      "sha256": "4538323e4d98414b1342eac6629f01dd2f779de39f6e7937dd94e7ea687bc001"
+    },
+    "wordmark-color": {
+      "width": 603.3795,
+      "height": 358,
+      "sha256": "4538323e4d98414b1342eac6629f01dd2f779de39f6e7937dd94e7ea687bc001"
+    },
+    "mark-color": {
+      "width": 256,
+      "height": 256,
+      "sha256": "b440508f9351514599343241ad1444983f3cdd385a7ab538f1d6574d0cf5f8aa"
+    },
+    "logo-black": {
+      "width": 603.3795,
+      "height": 358,
+      "sha256": "10a0c10ff78be9b3ae0def0264b5b003c123e9aa2bb532ec4aaee768f52769bc"
+    },
+    "wordmark-black": {
+      "width": 603.3795,
+      "height": 358,
+      "sha256": "10a0c10ff78be9b3ae0def0264b5b003c123e9aa2bb532ec4aaee768f52769bc"
+    },
+    "mark-black": {
+      "width": 256,
+      "height": 256,
+      "sha256": "a1057bb3b675026c7c0f60db4181c3c8beb9ab4af02ef23f38efa54dd53bfdbf"
+    },
+    "logo-white": {
+      "width": 603.3795,
+      "height": 358,
+      "sha256": "c26d591cfa59a3ae08d7ad01a12c70ba3e28ac10cf08ad3badf81d04173648c4"
+    },
+    "wordmark-white": {
+      "width": 603.3795,
+      "height": 358,
+      "sha256": "c26d591cfa59a3ae08d7ad01a12c70ba3e28ac10cf08ad3badf81d04173648c4"
+    },
+    "mark-white": {
+      "width": 256,
+      "height": 256,
+      "sha256": "8f43819504413f6521b4dd5c650223ab5a1c4fc7c2e89c415dc106fd2cb42663"
+    },
+    "mark-small": {
+      "width": 256,
+      "height": 256,
+      "sha256": "e10ab24243b4c9b2224b879af9749fe73961b20e9a8697584056f0417910a14e"
+    },
+    "app-icon": {
+      "width": 256,
+      "height": 256,
+      "sha256": "ea32a1fc658d9a40bea41402914213576dc5463563a189e102daf0ff8fb95491"
+    },
+    "app-icon-small": {
+      "width": 256,
+      "height": 256,
+      "sha256": "18e8fa381d19e56bdf6ba2fde4d594c8b3e861fd57e87d45c65d4d6524bba330"
+    }
+  }
+}

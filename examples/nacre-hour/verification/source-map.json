@@ -1,0 +1,182 @@
+{
+  "name": "Nacre Hour",
+  "minimum_full_logo_width": 240,
+  "sources": {
+    "logo-color": {
+      "width": 664.376,
+      "height": 355.12,
+      "kind": "logo",
+      "variant": "color",
+      "text": false
+    },
+    "logo-black": {
+      "width": 664.376,
+      "height": 355.12,
+      "kind": "logo",
+      "variant": "black",
+      "text": false
+    },
+    "logo-white": {
+      "width": 664.376,
+      "height": 355.12,
+      "kind": "logo",
+      "variant": "white",
+      "text": false
+    },
+    "wordmark-color": {
+      "width": 654.376,
+      "height": 125.12,
+      "kind": "wordmark",
+      "variant": "color",
+      "text": false
+    },
+    "wordmark-black": {
+      "width": 654.376,
+      "height": 125.12,
+      "kind": "wordmark",
+      "variant": "black",
+      "text": false
+    },
+    "wordmark-white": {
+      "width": 654.376,
+      "height": 125.12,
+      "kind": "wordmark",
+      "variant": "white",
+      "text": false
+    },
+    "mark-color": {
+      "width": 256,
+      "height": 256,
+      "kind": "mark",
+      "variant": "color",
+      "text": false
+    },
+    "mark-black": {
+      "width": 256,
+      "height": 256,
+      "kind": "mark",
+      "variant": "black",
+      "text": false
+    },
+    "mark-white": {
+      "width": 256,
+      "height": 256,
+      "kind": "mark",
+      "variant": "white",
+      "text": false
+    },
+    "wordmark-text": {
+      "width": 654.376,
+      "height": 125.12,
+      "kind": "wordmark",
+      "text": true
+    },
+    "mark-small": {
+      "width": 256,
+      "height": 256,
+      "kind": "mark",
+      "small": true,
+      "text": false
+    }
+  },
+  "exports": {
+    "exports/logo-color-1200.png": {
+      "source": "sources/logo-color.svg",
+      "width": 1200
+    },
+    "exports/logo-color-240.png": {
+      "source": "sources/logo-color.svg",
+      "width": 240
+    },
+    "exports/logo-black-1200.png": {
+      "source": "sources/logo-black.svg",
+      "width": 1200
+    },
+    "exports/logo-black-240.png": {
+      "source": "sources/logo-black.svg",
+      "width": 240
+    },
+    "exports/logo-white-1200.png": {
+      "source": "sources/logo-white.svg",
+      "width": 1200
+    },
+    "exports/logo-white-240.png": {
+      "source": "sources/logo-white.svg",
+      "width": 240
+    },
+    "exports/wordmark-color-1200.png": {
+      "source": "sources/wordmark-color.svg",
+      "width": 1200
+    },
+    "exports/wordmark-color-240.png": {
+      "source": "sources/wordmark-color.svg",
+      "width": 240
+    },
+    "exports/wordmark-black-1200.png": {
+      "source": "sources/wordmark-black.svg",
+      "width": 1200
+    },
+    "exports/wordmark-black-240.png": {
+      "source": "sources/wordmark-black.svg",
+      "width": 240
+    },
+    "exports/wordmark-white-1200.png": {
+      "source": "sources/wordmark-white.svg",
+      "width": 1200
+    },
+    "exports/wordmark-white-240.png": {
+      "source": "sources/wordmark-white.svg",
+      "width": 240
+    },
+    "exports/mark-color-1024.png": {
+      "source": "sources/mark-color.svg",
+      "width": 1024
+    },
+    "exports/mark-color-256.png": {
+      "source": "sources/mark-color.svg",
+      "width": 256
+    },
+    "exports/mark-color-64.png": {
+      "source": "sources/mark-color.svg",
+      "width": 64
+    },
+    "exports/mark-black-1024.png": {
+      "source": "sources/mark-black.svg",
+      "width": 1024
+    },
+    "exports/mark-black-256.png": {
+      "source": "sources/mark-black.svg",
+      "width": 256
+    },
+    "exports/mark-black-64.png": {
+      "source": "sources/mark-black.svg",
+      "width": 64
+    },
+    "exports/mark-white-1024.png": {
+      "source": "sources/mark-white.svg",
+      "width": 1024
+    },
+    "exports/mark-white-256.png": {
+      "source": "sources/mark-white.svg",
+      "width": 256
+    },
+    "exports/mark-white-64.png": {
+      "source": "sources/mark-white.svg",
+      "width": 64
+    },
+    "exports/mark-small-32.png": {
+      "source": "sources/mark-small.svg",
+      "width": 32
+    },
+    "exports/mark-small-16.png": {
+      "source": "sources/mark-small.svg",
+      "width": 16
+    }
+  },
+  "usage": {
+    "full_logo_minimum_width_px": 240,
+    "recommended_mark_minimum_px": 32,
+    "mark_small_16_is_diagnostic_only": true,
+    "dimension_convention": "canvas width, aspect ratio preserved"
+  }
+}

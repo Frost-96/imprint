@@ -1,0 +1,5 @@
+{
+  "status": "PASS",
+  "exportsCompared": 17,
+  "method": "Re-render SVG at exported width; compare PNG bytes exactly."
+}

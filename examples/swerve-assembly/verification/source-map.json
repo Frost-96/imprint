@@ -1,0 +1,71 @@
+{
+  "name": "Swerve Assembly",
+  "min_logo": 320,
+  "variants": {
+    "logo-color": {
+      "width": 713.30808,
+      "height": 190,
+      "sha256": "98b636b92c1e009170ffdd67bacf39b1a1f7a48df3a9e22769416ebbbd9f84f3"
+    },
+    "wordmark-color": {
+      "width": 713.30808,
+      "height": 190,
+      "sha256": "98b636b92c1e009170ffdd67bacf39b1a1f7a48df3a9e22769416ebbbd9f84f3"
+    },
+    "mark-color": {
+      "width": 256,
+      "height": 256,
+      "sha256": "aab0c25d884fae0ae852970c686ec28d01ec2ac2eef8135490f6a6282693f39f"
+    },
+    "logo-black": {
+      "width": 713.30808,
+      "height": 190,
+      "sha256": "8d1037a093d42b714ea56e58273d5c79b853f457068adda0109e76d6cb68868a"
+    },
+    "wordmark-black": {
+      "width": 713.30808,
+      "height": 190,
+      "sha256": "8d1037a093d42b714ea56e58273d5c79b853f457068adda0109e76d6cb68868a"
+    },
+    "mark-black": {
+      "width": 256,
+      "height": 256,
+      "sha256": "1d88d87e11662853b90ea4c5010af40b85d267b9d1ad4650d316989bb3ec9d2f"
+    },
+    "logo-white": {
+      "width": 713.30808,
+      "height": 190,
+      "sha256": "da0bc74c6e012da960f7201de4f8681b8e876f94284666cbe9dafdfb0d449710"
+    },
+    "wordmark-white": {
+      "width": 713.30808,
+      "height": 190,
+      "sha256": "da0bc74c6e012da960f7201de4f8681b8e876f94284666cbe9dafdfb0d449710"
+    },
+    "mark-white": {
+      "width": 256,
+      "height": 256,
+      "sha256": "922612df5e2983a904d75d620cbc7d5ef3c23039cc35599e63f330e60fb2fe0a"
+    },
+    "mark-small": {
+      "width": 256,
+      "height": 256,
+      "sha256": "aab0c25d884fae0ae852970c686ec28d01ec2ac2eef8135490f6a6282693f39f"
+    },
+    "app-icon": {
+      "width": 256,
+      "height": 256,
+      "sha256": "ec28ab99d8efecc996c52bd15d5a41e8d6e25f407c7925ef6066be86e55578fe"
+    },
+    "app-icon-small": {
+      "width": 256,
+      "height": 256,
+      "sha256": "ec28ab99d8efecc996c52bd15d5a41e8d6e25f407c7925ef6066be86e55578fe"
+    },
+    "wordmark-text": {
+      "width": 713.30808,
+      "height": 190,
+      "sha256": "b96c149f83b8b3f4bab3bc6f3f9984b1831215f593669a5e4867ec2a7a874ab7"
+    }
+  }
+}

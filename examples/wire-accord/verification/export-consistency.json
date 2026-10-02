@@ -1,0 +1,5 @@
+{
+  "status": "PASS",
+  "exportsCompared": 16,
+  "method": "Re-render exact master SVG at exported width; compare PNG bytes exactly."
+}

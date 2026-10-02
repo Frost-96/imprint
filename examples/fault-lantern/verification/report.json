@@ -1,0 +1,204 @@
+{
+  "case": "Fault Lantern",
+  "status": "PASS: SVG structure, rendered bounds, monochrome, dimensions, alpha, text-outline correspondence where applicable.",
+  "sources": [
+    {
+      "file": "sources/app-icon-small.svg",
+      "sha256": "405fc487156cc72293b178eb4308e89494c6e97735f4826c30d52bafd242d731",
+      "size": [
+        256,
+        256
+      ],
+      "ink_bounds": [
+        0,
+        0,
+        256,
+        256
+      ],
+      "vector_geometry": true
+    },
+    {
+      "file": "sources/app-icon.svg",
+      "sha256": "405fc487156cc72293b178eb4308e89494c6e97735f4826c30d52bafd242d731",
+      "size": [
+        256,
+        256
+      ],
+      "ink_bounds": [
+        0,
+        0,
+        256,
+        256
+      ],
+      "vector_geometry": true
+    },
+    {
+      "file": "sources/logo-black.svg",
+      "sha256": "33240e5b6e3b3e3080e74141cee368f251a5d4b38e66bf6a611600e6de7d6ece",
+      "size": [
+        740,
+        100
+      ],
+      "ink_bounds": [
+        27,
+        18,
+        724,
+        78
+      ],
+      "vector_geometry": true
+    },
+    {
+      "file": "sources/logo-color.svg",
+      "sha256": "0eb8e28d6b6e3e6513e3316610acb3fe99eda12ba6e44168abee33e8304fcb94",
+      "size": [
+        740,
+        100
+      ],
+      "ink_bounds": [
+        27,
+        18,
+        724,
+        78
+      ],
+      "vector_geometry": true
+    },
+    {
+      "file": "sources/logo-white.svg",
+      "sha256": "b2c930433025e859e985a4f81228baefcacb64ea63db7c9591ffd19bfa849ff4",
+      "size": [
+        740,
+        100
+      ],
+      "ink_bounds": [
+        27,
+        18,
+        724,
+        78
+      ],
+      "vector_geometry": true
+    },
+    {
+      "file": "sources/mark-black.svg",
+      "sha256": "ff7b6156c7ddb1da89e6b7717a58e7ab33dea9cba8bafe4ef83d70e5ef1e94e6",
+      "size": [
+        256,
+        256
+      ],
+      "ink_bounds": [
+        64,
+        40,
+        192,
+        216
+      ],
+      "vector_geometry": true
+    },
+    {
+      "file": "sources/mark-color.svg",
+      "sha256": "437263d7cb32bc170ecca58423b6e1990858f41365c194a28da234a0a2182855",
+      "size": [
+        256,
+        256
+      ],
+      "ink_bounds": [
+        64,
+        40,
+        192,
+        216
+      ],
+      "vector_geometry": true
+    },
+    {
+      "file": "sources/mark-small.svg",
+      "sha256": "437263d7cb32bc170ecca58423b6e1990858f41365c194a28da234a0a2182855",
+      "size": [
+        256,
+        256
+      ],
+      "ink_bounds": [
+        64,
+        40,
+        192,
+        216
+      ],
+      "vector_geometry": true
+    },
+    {
+      "file": "sources/mark-white.svg",
+      "sha256": "c574d10427b23f72badf0eab09f89e3517781a45bd81a2b458a0e64607363334",
+      "size": [
+        256,
+        256
+      ],
+      "ink_bounds": [
+        64,
+        40,
+        192,
+        216
+      ],
+      "vector_geometry": true
+    },
+    {
+      "file": "sources/wordmark-black.svg",
+      "sha256": "3cfa5097fd09f0b8d707aeb6e2df1baefba3b2c1a3fb476b29f4b2a46735d567",
+      "size": [
+        632,
+        92
+      ],
+      "ink_bounds": [
+        16,
+        18,
+        616,
+        74
+      ],
+      "vector_geometry": true
+    },
+    {
+      "file": "sources/wordmark-color.svg",
+      "sha256": "33030d509b8c6d137200fabd77a308593a7d814b993384fef8cf4859d3625554",
+      "size": [
+        632,
+        92
+      ],
+      "ink_bounds": [
+        16,
+        18,
+        616,
+        74
+      ],
+      "vector_geometry": true
+    },
+    {
+      "file": "sources/wordmark-white.svg",
+      "sha256": "c81373b2eb1c1c58b8738db56386723081385e81cce20d61bd5c3585fe314a47",
+      "size": [
+        632,
+        92
+      ],
+      "ink_bounds": [
+        16,
+        18,
+        616,
+        74
+      ],
+      "vector_geometry": true
+    }
+  ],
+  "wordmark_check": {
+    "method": "Custom editable vector lettering; text-font equivalence not applicable."
+  },
+  "minimum_logo_width": 280,
+  "generic_icon_sizes": [
+    1024,
+    256,
+    64,
+    32,
+    16
+  ],
+  "unperformed": [
+    "Trademark clearance",
+    "Domain/handle availability",
+    "Audience recall and native speaker testing",
+    "Complete external visual similarity screening",
+    "Platform-specific upload validation"
+  ]
+}

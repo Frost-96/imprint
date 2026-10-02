@@ -1,0 +1,120 @@
+{
+  "date": "2026-10-02",
+  "skill": "../../skills/imprint/SKILL.md",
+  "skill_sha256": "519e787cdf6277b2e9c5caeb64dbf3b3917a53bde0ee0dc433c4a35dd548fad3",
+  "id": "11-still-acre",
+  "name": "Sillward",
+  "roman": "SILLWARD",
+  "category": "小型建筑事务所",
+  "brief": "为个人业主改造既有住宅，通过采光与空间重新组织改善日常居住。",
+  "position": "在已有的地方，留出更好的生活尺度。",
+  "traits": [
+    "审慎：留白与严格边界",
+    "空间感：门洞和偏移平面",
+    "安静：宽字距与单色基础"
+  ],
+  "anti": [
+    "摩天楼剪影",
+    "虚构获奖背书",
+    "奢华地产金色"
+  ],
+  "territories": [
+    [
+      "安定的土地",
+      "Still Acre",
+      "Quiet Plot"
+    ],
+    [
+      "空间余量",
+      "Room Between",
+      "Extra Threshold"
+    ],
+    [
+      "改造动作",
+      "Open Measure",
+      "Second Plan"
+    ],
+    [
+      "复核后的替代方向",
+      "Sillward"
+    ]
+  ],
+  "shortlist": [
+    [
+      "Sillward",
+      "以 sill 和方向性后缀组合的自造名称；意图是朝向窗边与日常空间，不声称已有词源。",
+      "Still Acres Developments 的服务与本案住宅设计相邻，退出 Still Acre；Sillward 更紧凑，但需建立新词识别。"
+    ],
+    [
+      "Still Acre",
+      "安定且有空间感",
+      "acre 不是本地常用单位"
+    ],
+    [
+      "Room Between",
+      "负空间意味贴合",
+      "长且容易成为文章标题"
+    ],
+    [
+      "Open Measure",
+      "方法感明确",
+      "偏测量服务"
+    ]
+  ],
+  "font": "body",
+  "ink": "#303E39",
+  "paper": "#EAE6DD",
+  "accent": "#A8B39A",
+  "support": "#C8C6B9",
+  "pronunciation": "SILL-werd",
+  "min": 240,
+  "chosen_concept": "A",
+  "name_screening_status": "partially checked; availability unverified",
+  "visual_screening_status": "not completed; no claim of originality or exclusivity",
+  "retired_name": "Still Acre",
+  "name_rationale": "以 sill 和方向性后缀组合的自造名称；意图是朝向窗边与日常空间，不声称已有词源。",
+  "name_revision": "Still Acres Developments 的服务与本案住宅设计相邻，退出 Still Acre；Sillward 更紧凑，但需建立新词识别。",
+  "searches": [
+    {
+      "query": "\"Still Acre\" architecture",
+      "date": "2026-10-02",
+      "source": "Exa search result excerpts",
+      "status": "partial",
+      "links": [
+        "https://www.stillacresdevelopments.com/",
+        "https://www.stillacresdevelopments.com/post/interested-in-partnering-in-a-residential-development-as-a-landowner",
+        "https://www.stillacresdevelopments.com/post/a-life-rooted-in-connection"
+      ]
+    },
+    {
+      "query": "Still Acres Developments website",
+      "date": "2026-10-02",
+      "source": "web search / opened page where available",
+      "status": "partial",
+      "links": [
+        "https://www.stillacresdevelopments.com/"
+      ]
+    },
+    {
+      "query": "\"Sillward\" architecture；\"Sillward\"",
+      "date": "2026-10-02",
+      "source": "web search / opened page where available",
+      "status": "partial",
+      "links": []
+    }
+  ],
+  "checks_not_performed": [
+    "商标、域名和社交账号可用性",
+    "完整外部图形相似性核查",
+    "真实受众认读、听写与记忆测试",
+    "完整品牌系统和平台上架包"
+  ],
+  "screening_findings": "Still Acres Developments 的公开网站涉及住房开发，与初始建筑工作室定位相邻，因此放弃 Still Acre。替代名 Sillward 的检索未取得可核实的同名建筑品牌结论。",
+  "recommended_mark_minimum_px": 16,
+  "visual_decision": {
+    "concept": "A",
+    "reason": "错位墙面构成一个可进入的空隙；比窗口拼块少一点软件感，比拱门更接近住宅空间改造。",
+    "refinement": "命名复核后调整字标为 SILLWARD；保留高低不同的两道平面，统一基线与底部留白。",
+    "usage": "完整字标优先用于图纸标题与网站页头；图形独立出现时需要先建立品牌语境。"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "date": "2026-10-02",
+  "skill": "../../skills/imprint/SKILL.md",
+  "skill_sha256": "519e787cdf6277b2e9c5caeb64dbf3b3917a53bde0ee0dc433c4a35dd548fad3",
+  "id": "09-kettle-choir",
+  "name": "Kettle Murmur",
+  "roman": "KETTLE MURMUR",
+  "category": "小型茶品牌",
+  "brief": "面向喜欢邀请朋友喝茶的人，提供日常散叶茶与小型品饮聚会。",
+  "position": "一壶茶，给交谈留一点时间。",
+  "traits": [
+    "好客：壶嘴与呼唤姿态",
+    "从容：宽松衬线字标",
+    "有一点古怪：鸟与壶共用轮廓"
+  ],
+  "anti": [
+    "宫廷奢侈",
+    "冥想疗效承诺",
+    "通用茶叶嫩芽"
+  ],
+  "territories": [
+    [
+      "相聚的声音",
+      "Kettle Choir",
+      "Table Chorus"
+    ],
+    [
+      "日常停顿",
+      "Steep Hour",
+      "Little Interval"
+    ],
+    [
+      "陪伴物件",
+      "Second Cupboard",
+      "Guest Kettle"
+    ],
+    [
+      "复核后的替代方向",
+      "Kettle Murmur"
+    ]
+  ],
+  "shortlist": [
+    [
+      "Kettle Murmur",
+      "从合唱调整为壶边交谈；声音的比喻表达轻松陪伴。",
+      "发现真实 The Kettle Choir 社区项目，避免借用其全名；Kettle Murmur 仍有文艺语境词组线索，未完成可用性验证。"
+    ],
+    [
+      "Kettle Choir",
+      "器物与群声反差有记忆点",
+      "choir 拼写需学习"
+    ],
+    [
+      "Table Chorus",
+      "相聚关系自然",
+      "茶的语境较弱"
+    ],
+    [
+      "Steep Hour",
+      "茶与时间连接清楚",
+      "较描述性"
+    ]
+  ],
+  "font": "fraunces",
+  "ink": "#173E39",
+  "paper": "#F4EBCF",
+  "accent": "#D9AE3D",
+  "support": "#A6B6A2",
+  "pronunciation": "KET-uhl MUR-mer",
+  "min": 220,
+  "chosen_concept": "A",
+  "name_screening_status": "partially checked; availability unverified",
+  "visual_screening_status": "not completed; no claim of originality or exclusivity",
+  "retired_name": "Kettle Choir",
+  "name_rationale": "从合唱调整为壶边交谈；声音的比喻表达轻松陪伴。",
+  "name_revision": "发现真实 The Kettle Choir 社区项目，避免借用其全名；Kettle Murmur 仍有文艺语境词组线索，未完成可用性验证。",
+  "searches": [
+    {
+      "query": "\"Kettle Choir\" tea",
+      "date": "2026-10-02",
+      "source": "Exa search result excerpts",
+      "status": "Exa call failed; subsequent web fallback recorded below",
+      "links": []
+    },
+    {
+      "query": "\"Kettle Choir\"",
+      "date": "2026-10-02",
+      "source": "web search / opened page where available",
+      "status": "partial",
+      "links": [
+        "https://www.thekettle.ca/kettle-choir"
+      ]
+    },
+    {
+      "query": "\"Kettle Murmur\" tea",
+      "date": "2026-10-02",
+      "source": "web search / opened page where available",
+      "status": "partial",
+      "links": [
+        "https://commonreader.wustl.edu/tea-cozy/"
+      ]
+    }
+  ],
+  "checks_not_performed": [
+    "商标、域名和社交账号可用性",
+    "完整外部图形相似性核查",
+    "真实受众认读、听写与记忆测试",
+    "完整品牌系统和平台上架包"
+  ],
+  "screening_findings": "初始名 Kettle Choir 与 The Kettle 的真实社区合唱项目重合，故改名。Kettle Murmur 的检索返回茶与文学语境的词语线索，未得到名称可用性结论。",
+  "recommended_mark_minimum_px": 32,
+  "visual_decision": {
+    "concept": "A",
+    "reason": "呼唤的小鸟与茶壶共用轮廓，比杯子阵列更有人情味；代价是更偏亲切而非严肃茶器。",
+    "refinement": "初稿采用复合偶奇填充，提手和壶身重叠处出现意外白缝；改为提手在后、主体在前的独立路径。",
+    "usage": "16 px 眼睛只作轮廓辅助，完整字标最低宽度按实际渲染建议使用。"
+  }
+}

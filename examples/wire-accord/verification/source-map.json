@@ -1,0 +1,71 @@
+{
+  "name": "Wire Accord",
+  "min_logo": 260,
+  "variants": {
+    "logo-color": {
+      "width": 744.587,
+      "height": 153,
+      "sha256": "3a6b01be39eeceb269c51c9177f15ce88ef097222b650348146e455bf4d3605b"
+    },
+    "wordmark-color": {
+      "width": 583.587,
+      "height": 145,
+      "sha256": "585c63e15c5f92266c54c48bb74048c9256ada9def27424d78c1261a8084a810"
+    },
+    "mark-color": {
+      "width": 256,
+      "height": 256,
+      "sha256": "3c6fc638acbeae7efe90875e63a2899bd16ba8f102db7dfaa1d725ef94876223"
+    },
+    "logo-black": {
+      "width": 744.587,
+      "height": 153,
+      "sha256": "1f58991482edc982c50e96fa568356ccdfe11a3444d6372d7d14e62ffc39a0d2"
+    },
+    "wordmark-black": {
+      "width": 583.587,
+      "height": 145,
+      "sha256": "b6518bfe9df2fbe6ee3f97fc186d9a57550ffcab6684e1081d54a824f45bb8e7"
+    },
+    "mark-black": {
+      "width": 256,
+      "height": 256,
+      "sha256": "6b39543386da68ad9fa3862f175b1fe43a12603cc190a4e31319cef75216f934"
+    },
+    "logo-white": {
+      "width": 744.587,
+      "height": 153,
+      "sha256": "905eeda590fac0b95350a5fa77a18097047dd88f4faba1db5fc7cc294a526349"
+    },
+    "wordmark-white": {
+      "width": 583.587,
+      "height": 145,
+      "sha256": "40194a6e9adb5ada65fdaf54d6b178b9f009652e2184006e5a6fc4692eed15e6"
+    },
+    "mark-white": {
+      "width": 256,
+      "height": 256,
+      "sha256": "f3f7786b48745a3f01984f8e8c0b111521c9f491eeb5511d10c93ad97ad7095a"
+    },
+    "mark-small": {
+      "width": 256,
+      "height": 256,
+      "sha256": "84236acd8cb2dd578918cfc683d92b9461dcf009af60f1e7d8903f4c4d686bd7"
+    },
+    "app-icon": {
+      "width": 256,
+      "height": 256,
+      "sha256": "8baa9a5a66633e586d7fc37e77006b7448ddf27ecacfc0199c09590fff60e590"
+    },
+    "app-icon-small": {
+      "width": 256,
+      "height": 256,
+      "sha256": "4cfbce16887f2c910df74386767750781682535ee90eecfd888895e1628a7de0"
+    },
+    "wordmark-text": {
+      "width": 583.587,
+      "height": 145,
+      "sha256": "cee35d9fc14f7644191679bc02228351a79a3ee87a37debdf0a5496e1881dcd9"
+    }
+  }
+}

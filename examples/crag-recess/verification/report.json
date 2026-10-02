@@ -1,0 +1,184 @@
+{
+  "case": "Crag Recess",
+  "file_status": "PASS",
+  "failures": [],
+  "sources": [
+    {
+      "file": "sources/logo-color.svg",
+      "sha256": "41c69bfe4688ca44cf29f793cf24d486851730d9961b51c95b69074b353a8f87",
+      "canvas": [
+        574,
+        250
+      ],
+      "visible_bounds": [
+        39,
+        20,
+        549,
+        218
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/logo-black.svg",
+      "sha256": "7c8af83ee7b54aa25fbd534254bc5419a5cbcfdedb47a384f6190d97f5adc15f",
+      "canvas": [
+        574,
+        250
+      ],
+      "visible_bounds": [
+        39,
+        20,
+        549,
+        218
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/logo-white.svg",
+      "sha256": "99033d6520f166954d1d4bd9b3a5d87e737947414dad7d164ad0239c9fe6274b",
+      "canvas": [
+        574,
+        250
+      ],
+      "visible_bounds": [
+        39,
+        20,
+        549,
+        218
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/wordmark-color.svg",
+      "sha256": "60f0d07fda1cebdbebcdd536811dd5aa971d0e849509c799309e45dc49edddc1",
+      "canvas": [
+        332,
+        238
+      ],
+      "visible_bounds": [
+        20,
+        20,
+        312,
+        218
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/wordmark-black.svg",
+      "sha256": "48577b725d5d8f82a69a099dee6c4e6025f90a479fb19190d544e4188073ee62",
+      "canvas": [
+        332,
+        238
+      ],
+      "visible_bounds": [
+        20,
+        20,
+        312,
+        218
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/wordmark-white.svg",
+      "sha256": "ae476b2eafdafc254fc40e6fc8315eecb4b501872d82f92311d5da9945b9c3c3",
+      "canvas": [
+        332,
+        238
+      ],
+      "visible_bounds": [
+        20,
+        20,
+        312,
+        218
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/mark-color.svg",
+      "sha256": "eb83bd56d7532476613312f03f86e778c6e2521abe572d8aa92418936716cb91",
+      "canvas": [
+        256,
+        256
+      ],
+      "visible_bounds": [
+        33,
+        25,
+        235,
+        211
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/mark-black.svg",
+      "sha256": "a494c88915080a9f4dbdebf0035c6c07bc33e365ca2673043a784fe598c693fc",
+      "canvas": [
+        256,
+        256
+      ],
+      "visible_bounds": [
+        33,
+        25,
+        235,
+        211
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/mark-white.svg",
+      "sha256": "b56e6fea60a779bccde54851acfb13fac12a2bba4989f409e36a718ad5bdcf5d",
+      "canvas": [
+        256,
+        256
+      ],
+      "visible_bounds": [
+        33,
+        25,
+        235,
+        211
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/wordmark-text.svg",
+      "sha256": "aa3192c4bcc07d7ac6ce2d890992ded70d9918299e82f4c3c062b1c9499f6c2f",
+      "canvas": [
+        332,
+        238
+      ],
+      "visible_bounds": [
+        20,
+        20,
+        312,
+        218
+      ],
+      "text_source": true
+    },
+    {
+      "file": "sources/mark-small.svg",
+      "sha256": "eb83bd56d7532476613312f03f86e778c6e2521abe572d8aa92418936716cb91",
+      "canvas": [
+        256,
+        256
+      ],
+      "visible_bounds": [
+        33,
+        25,
+        235,
+        211
+      ],
+      "text_source": false
+    }
+  ],
+  "font_render_comparison": {
+    "width": 2400,
+    "alpha_iou": 1.0,
+    "rgba_mean_absolute_error": 0.0
+  },
+  "visual_status": "Reviewed actual 1024/256/64/32/16 px marks, three concepts, monochrome refinement/reverse, actual minimum-width logo, finished light/dark board.",
+  "name_status": "provisional; limited public search only",
+  "external_visual_screening": "not completed",
+  "full_logo_minimum_width": 190,
+  "visual_limitations": "图形推荐 32 px 起；16 px 只剩三块基本节奏，不推荐独立使用。",
+  "model_visual_judgment": true,
+  "recommended_mark_minimum_px": 32
+}

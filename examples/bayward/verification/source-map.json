@@ -1,0 +1,67 @@
+{
+  "name": "Bayward",
+  "minimum_logo_width": 180,
+  "minimum_full_mark": 32,
+  "variants": {
+    "logo-color": {
+      "width": 679.744,
+      "height": 164,
+      "sha256": "a20a0c76e441219ba8035334bf05a749c01a8fff31aa2782ec3796724080153f"
+    },
+    "wordmark-color": {
+      "width": 505.744,
+      "height": 160,
+      "sha256": "8449d918fddc4e1ab38f3f1e6f5aa79164935578764258807870a7fac6696eeb"
+    },
+    "mark-color": {
+      "width": 256,
+      "height": 256,
+      "sha256": "8ace9ed8e7df44583b8e974aa75c346ed7f59bf290d948d2edb3135fffb2494a"
+    },
+    "logo-black": {
+      "width": 679.744,
+      "height": 164,
+      "sha256": "79eb17cb701f634235a5f5feda4ea386c1a45ea035396b2b7b4f6a69c0329833"
+    },
+    "wordmark-black": {
+      "width": 505.744,
+      "height": 160,
+      "sha256": "4c6d98cafe3261ff3d9f1f335a48c408fc1c38f6f4656b8d770e40fc21bc0eb4"
+    },
+    "mark-black": {
+      "width": 256,
+      "height": 256,
+      "sha256": "a392e9c52dc021dffc486fb5a01406d06ba15d68f43c53e50fae31169dfb5b16"
+    },
+    "logo-white": {
+      "width": 679.744,
+      "height": 164,
+      "sha256": "6e3089dc74eef759659c2fb032f8e6a4b960906cdd12063cb2a50464d30be8bb"
+    },
+    "wordmark-white": {
+      "width": 505.744,
+      "height": 160,
+      "sha256": "9fbffa1fd80da29c497fad119507f12dc15f0b8ef658cf000fe20e6f2a4e7c13"
+    },
+    "mark-white": {
+      "width": 256,
+      "height": 256,
+      "sha256": "959d1b696c16ddce74d6e5c15a34f130b3e0fcd3955492d2b46524beb4e1cc40"
+    },
+    "mark-small": {
+      "width": 256,
+      "height": 256,
+      "sha256": "14aa125ecff2ac27f61d8c1aeacf2c0d27dd2570f5ffe305d0b558f6f067a078"
+    },
+    "app-icon": {
+      "width": 256,
+      "height": 256,
+      "sha256": "b2ac32dce817d6c07646714751e603fa4d0287b690d15812cfc74f20347e7ae5"
+    },
+    "app-icon-small": {
+      "width": 256,
+      "height": 256,
+      "sha256": "3706637cd8702bfeb0d6c43989518f57c2a161b727c75aa353c6d7bcbdbf2c3e"
+    }
+  }
+}

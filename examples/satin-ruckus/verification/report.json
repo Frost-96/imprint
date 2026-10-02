@@ -1,0 +1,184 @@
+{
+  "case": "Satin Ruckus",
+  "file_status": "PASS",
+  "failures": [],
+  "sources": [
+    {
+      "file": "sources/logo-color.svg",
+      "sha256": "af85d1132a5a0b910db2b14aeebc8fd52c7d2bd86723811918c1cf061d0fc1d5",
+      "canvas": [
+        490,
+        275
+      ],
+      "visible_bounds": [
+        35,
+        30,
+        455,
+        245
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/logo-black.svg",
+      "sha256": "57185dc316a513475cdf1b98f4ef35744673a0740e34284f1b3408bff86320a1",
+      "canvas": [
+        490,
+        275
+      ],
+      "visible_bounds": [
+        35,
+        30,
+        455,
+        245
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/logo-white.svg",
+      "sha256": "0853f81240aaa1410f93286f7738b0828f337662bcf078ac577f0647783a9194",
+      "canvas": [
+        490,
+        275
+      ],
+      "visible_bounds": [
+        35,
+        30,
+        455,
+        245
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/wordmark-color.svg",
+      "sha256": "74d355a81f81d2a0d8b701df4695fcd6a441c96f9fe274db924120b5773b4e1d",
+      "canvas": [
+        460,
+        255
+      ],
+      "visible_bounds": [
+        20,
+        20,
+        440,
+        235
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/wordmark-black.svg",
+      "sha256": "1d07f538ede33c2a5da529cb11609bcc5152275744ee3f5ef9621fa60a5ae3ae",
+      "canvas": [
+        460,
+        255
+      ],
+      "visible_bounds": [
+        20,
+        20,
+        440,
+        235
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/wordmark-white.svg",
+      "sha256": "0698bd290fa21d25c8fc1235e19e67e54f1b346ed7e37e7f7315e05dfc6e8d23",
+      "canvas": [
+        460,
+        255
+      ],
+      "visible_bounds": [
+        20,
+        20,
+        440,
+        235
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/mark-color.svg",
+      "sha256": "d40b087f981b740a677cf9f63faef1749b78d2d7991f5c5554636c2e2caaea6c",
+      "canvas": [
+        256,
+        256
+      ],
+      "visible_bounds": [
+        43,
+        32,
+        223,
+        222
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/mark-black.svg",
+      "sha256": "f18585b19defcf89690340203788f5cda683a140f461fb723b62bf750f13e11d",
+      "canvas": [
+        256,
+        256
+      ],
+      "visible_bounds": [
+        43,
+        32,
+        223,
+        222
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/mark-white.svg",
+      "sha256": "3dc5a612e3296398b244a07eb83adea39ecc01954a09b6235505f2bb52029eaa",
+      "canvas": [
+        256,
+        256
+      ],
+      "visible_bounds": [
+        43,
+        32,
+        223,
+        222
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/wordmark-text.svg",
+      "sha256": "7a7e96d1eb4309c0ddd2f67b06b57c269172062e4681b4ae1d535d95c407716f",
+      "canvas": [
+        460,
+        255
+      ],
+      "visible_bounds": [
+        20,
+        20,
+        440,
+        235
+      ],
+      "text_source": true
+    },
+    {
+      "file": "sources/mark-small.svg",
+      "sha256": "f0b54a255b222e969c0e75735c2739caca52afefc8b214ec4d1a23c0ef4a408e",
+      "canvas": [
+        256,
+        256
+      ],
+      "visible_bounds": [
+        43,
+        32,
+        223,
+        222
+      ],
+      "text_source": false
+    }
+  ],
+  "font_render_comparison": {
+    "width": 2400,
+    "alpha_iou": 1.0,
+    "rgba_mean_absolute_error": 6.275100401606426e-06
+  },
+  "visual_status": "Reviewed actual 1024/256/64/32/16 px marks, three concepts, monochrome refinement/reverse, actual minimum-width logo, finished light/dark board.",
+  "name_status": "provisional; limited public search only",
+  "external_visual_screening": "not completed",
+  "full_logo_minimum_width": 260,
+  "visual_limitations": "主 Logo 最小宽度 260 px；mark-* 文件属于辅助纹样，不能替代字标或当作独立 favicon。",
+  "model_visual_judgment": true,
+  "recommended_mark_minimum_px": 32
+}

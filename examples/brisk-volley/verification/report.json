@@ -1,0 +1,184 @@
+{
+  "case": "Brisk Volley",
+  "file_status": "PASS",
+  "failures": [],
+  "sources": [
+    {
+      "file": "sources/logo-color.svg",
+      "sha256": "e13db7a9ad7509b2b48dfb02aebd738b1592cc31b739d72ce697ac0bd7b65f3a",
+      "canvas": [
+        699,
+        248
+      ],
+      "visible_bounds": [
+        61,
+        20,
+        650,
+        223
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/logo-black.svg",
+      "sha256": "a8510885da00b135f1dcb52cab733f4b5f53a11c13e528674e0dc7793aa3af78",
+      "canvas": [
+        699,
+        248
+      ],
+      "visible_bounds": [
+        61,
+        20,
+        650,
+        223
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/logo-white.svg",
+      "sha256": "c7d2d09293f479ac5b98cc6bc3ed917346eb84cfe3e50d536fb34af00a67dd96",
+      "canvas": [
+        699,
+        248
+      ],
+      "visible_bounds": [
+        61,
+        20,
+        650,
+        223
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/wordmark-color.svg",
+      "sha256": "52865dea7ee20448c68640a93d4d90031c64817fa43c3005e4aeb8d863a29239",
+      "canvas": [
+        448,
+        243
+      ],
+      "visible_bounds": [
+        33,
+        20,
+        403,
+        223
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/wordmark-black.svg",
+      "sha256": "190fc7ac5421b4e8473252f1e43218bef0122a1fce212cb66c7727f98fbd1f0a",
+      "canvas": [
+        448,
+        243
+      ],
+      "visible_bounds": [
+        33,
+        20,
+        403,
+        223
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/wordmark-white.svg",
+      "sha256": "acb59b64c731bb57abde7b2299dbb059bcdbc1ffd6d61f37f610f0df42f92b43",
+      "canvas": [
+        448,
+        243
+      ],
+      "visible_bounds": [
+        33,
+        20,
+        403,
+        223
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/mark-color.svg",
+      "sha256": "be0bef63a3d73cd97ec4c9a4de95327e22e2200e7c93761eb24cf249f20a5594",
+      "canvas": [
+        256,
+        256
+      ],
+      "visible_bounds": [
+        56,
+        27,
+        197,
+        237
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/mark-black.svg",
+      "sha256": "5e614d95d4ed431622e065e6614da66307544788b998379a4b43b89e23201bdb",
+      "canvas": [
+        256,
+        256
+      ],
+      "visible_bounds": [
+        56,
+        27,
+        197,
+        237
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/mark-white.svg",
+      "sha256": "55243f7b9446ffc239ed8a49ee859a1ba0a9e8136bf813a85b8675f201a9192b",
+      "canvas": [
+        256,
+        256
+      ],
+      "visible_bounds": [
+        56,
+        27,
+        197,
+        237
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/wordmark-text.svg",
+      "sha256": "78c23badf2fc59b3a88158fd6edba8acb896fc9bfc8ba18d2f8408f846c3a4c5",
+      "canvas": [
+        448,
+        243
+      ],
+      "visible_bounds": [
+        33,
+        20,
+        403,
+        223
+      ],
+      "text_source": true
+    },
+    {
+      "file": "sources/mark-small.svg",
+      "sha256": "be0bef63a3d73cd97ec4c9a4de95327e22e2200e7c93761eb24cf249f20a5594",
+      "canvas": [
+        256,
+        256
+      ],
+      "visible_bounds": [
+        56,
+        27,
+        197,
+        237
+      ],
+      "text_source": false
+    }
+  ],
+  "font_render_comparison": {
+    "width": 2400,
+    "alpha_iou": 1.0,
+    "rgba_mean_absolute_error": 5.120327700972862e-06
+  },
+  "visual_status": "Reviewed: three concepts, monochrome refinement, 1024 px master, 256/64/32/16 px studies, actual minimum-width lockup, finished light/dark board and wall.",
+  "name_status": "provisional; limited public search only",
+  "external_visual_screening": "not completed",
+  "full_logo_minimum_width": 220,
+  "recommended_mark_minimum_px": 16,
+  "visual_limitations": "不把标志理解为获奖、排名或职业竞技认证。",
+  "visual_review_is_model_judgment": true
+}

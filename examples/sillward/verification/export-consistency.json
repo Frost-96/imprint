@@ -1,0 +1,144 @@
+{
+  "status": "PASS",
+  "method": "Every formal PNG regenerated from exact final SVG at assigned width; PNG bytes compared",
+  "exports": [
+    {
+      "file": "exports/logo-color-1200.png",
+      "source": "sources/logo-color.svg",
+      "sha256": "f7ad060dabe130940de494a37778a4909a0551519d38a1e1cdb119b1462200d8",
+      "exactMatch": true
+    },
+    {
+      "file": "exports/logo-color-240.png",
+      "source": "sources/logo-color.svg",
+      "sha256": "686a18bc3f7a3738c6ee159d90c7958bcac41e58cc7e8593991a7f5c693afdb3",
+      "exactMatch": true
+    },
+    {
+      "file": "exports/logo-black-1200.png",
+      "source": "sources/logo-black.svg",
+      "sha256": "9102ba74049e3fb32d9393b9ebcd24f8b633728bde3031db2e16af34c1fee186",
+      "exactMatch": true
+    },
+    {
+      "file": "exports/logo-black-240.png",
+      "source": "sources/logo-black.svg",
+      "sha256": "be3182d520fe8f1fbbbb3ae7ac7ad670e80c094ccdb527afdd19dd0df91f9618",
+      "exactMatch": true
+    },
+    {
+      "file": "exports/logo-white-1200.png",
+      "source": "sources/logo-white.svg",
+      "sha256": "d0a5f5352729d62dc89c679b5e407c8a5d7ae31b1270e0eb351959c05232f3e7",
+      "exactMatch": true
+    },
+    {
+      "file": "exports/logo-white-240.png",
+      "source": "sources/logo-white.svg",
+      "sha256": "482ab1ec3228c6b81598fe9ee4ffc1e0396688a6f02b06788353fda17aa8887c",
+      "exactMatch": true
+    },
+    {
+      "file": "exports/wordmark-color-1200.png",
+      "source": "sources/wordmark-color.svg",
+      "sha256": "9898013f3244b24881ab3a9a3ce2fb2b13631a366f4825a6ad4f89bf6fedb628",
+      "exactMatch": true
+    },
+    {
+      "file": "exports/wordmark-color-240.png",
+      "source": "sources/wordmark-color.svg",
+      "sha256": "c7984b5c75cb00dacfa9a9dbecad4a658fbfa3fbfb4a5d6f93d8157e35cb6da8",
+      "exactMatch": true
+    },
+    {
+      "file": "exports/wordmark-black-1200.png",
+      "source": "sources/wordmark-black.svg",
+      "sha256": "f417e4d74f4db91471ec99afdb52d16f5ca8c2867106d288996dab83889c0300",
+      "exactMatch": true
+    },
+    {
+      "file": "exports/wordmark-black-240.png",
+      "source": "sources/wordmark-black.svg",
+      "sha256": "35a0291b71dd8ffe24c6a9853b45794e0ad63bb04ddd3060467beeeaa8f026bb",
+      "exactMatch": true
+    },
+    {
+      "file": "exports/wordmark-white-1200.png",
+      "source": "sources/wordmark-white.svg",
+      "sha256": "541d5332d48434237a46040e973c25e3f1c5897691174bf9e2d31795ecd030e6",
+      "exactMatch": true
+    },
+    {
+      "file": "exports/wordmark-white-240.png",
+      "source": "sources/wordmark-white.svg",
+      "sha256": "86e555d23fafc082ab6a2c40145dce172a2ebd393141684b745ad5643868e9d4",
+      "exactMatch": true
+    },
+    {
+      "file": "exports/mark-color-1024.png",
+      "source": "sources/mark-color.svg",
+      "sha256": "2cdc43c041c14ed68c2c5c24ef4eaf92cbe995dc4b6c6524c4d397c42ad5209b",
+      "exactMatch": true
+    },
+    {
+      "file": "exports/mark-color-256.png",
+      "source": "sources/mark-color.svg",
+      "sha256": "fb0335d9e834a335bbd4423d70f9c4dfa9c7b204d8660bd5de63c716aa00fcd0",
+      "exactMatch": true
+    },
+    {
+      "file": "exports/mark-color-64.png",
+      "source": "sources/mark-color.svg",
+      "sha256": "dad15bd03e2bc460a6e17e99dafcda716063f7686ddbca4aaaa090a4197ca0ce",
+      "exactMatch": true
+    },
+    {
+      "file": "exports/mark-black-1024.png",
+      "source": "sources/mark-black.svg",
+      "sha256": "2104a3450683cc82afcbffdcc1e8f366bdae186cb6e93f2ac28e79801d1ad3b6",
+      "exactMatch": true
+    },
+    {
+      "file": "exports/mark-black-256.png",
+      "source": "sources/mark-black.svg",
+      "sha256": "3e2a83416fe9ccc2e11183bc121e126e634e7641f59e58d05be46763eb4a2189",
+      "exactMatch": true
+    },
+    {
+      "file": "exports/mark-black-64.png",
+      "source": "sources/mark-black.svg",
+      "sha256": "ed6701ad8954dd4d11d9e324462bbc1ca3852d8861313c81a9e60c9a09a93090",
+      "exactMatch": true
+    },
+    {
+      "file": "exports/mark-white-1024.png",
+      "source": "sources/mark-white.svg",
+      "sha256": "8af77992e41918ad713acb85c1af4e8e56898d837eebca6d8807db5fc9794ea7",
+      "exactMatch": true
+    },
+    {
+      "file": "exports/mark-white-256.png",
+      "source": "sources/mark-white.svg",
+      "sha256": "bad85541387c501e2edb9f3d60a7462bc867ea3851457bb733319437339983cb",
+      "exactMatch": true
+    },
+    {
+      "file": "exports/mark-white-64.png",
+      "source": "sources/mark-white.svg",
+      "sha256": "bd852cd7531f53c9ba5522558f332e6f2506c8cec1531f6db0d1e4d0693ad407",
+      "exactMatch": true
+    },
+    {
+      "file": "exports/mark-small-32.png",
+      "source": "sources/mark-small.svg",
+      "sha256": "2dfb05d6da19529cdb0143b9be39fcc52d24036f30f16f04dac709093c474077",
+      "exactMatch": true
+    },
+    {
+      "file": "exports/mark-small-16.png",
+      "source": "sources/mark-small.svg",
+      "sha256": "07fda1ee12c4c31b001c20450c8ba3248d22206ef08480208648f0162bc89775",
+      "exactMatch": true
+    }
+  ]
+}

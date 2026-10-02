@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-02",
+  "skill": "../../skills/imprint/SKILL.md",
+  "skill_sha256": "519e787cdf6277b2e9c5caeb64dbf3b3917a53bde0ee0dc433c4a35dd548fad3",
+  "id": "14-fengqing",
+  "name": "缝晴",
+  "roman": "FENG QING",
+  "category": "衣物修补工作室",
+  "brief": "为愿意继续穿旧衣的人提供可见修补与小型缝补课程。",
+  "position": "把修补留下来，把日常接着穿。",
+  "traits": [
+    "耐心：线的回环",
+    "乐观：开放日轮",
+    "有手感：保留中文字的笔画节奏"
+  ],
+  "anti": [
+    "全新无痕保证",
+    "过度乡村复古",
+    "针线交叉的工具图标"
+  ],
+  "territories": [
+    [
+      "修补后的情绪",
+      "缝晴",
+      "衣然好"
+    ],
+    [
+      "物的延续",
+      "续衣间",
+      "留衣"
+    ],
+    [
+      "共同练习",
+      "针慢慢",
+      "补一会"
+    ]
+  ],
+  "shortlist": [
+    [
+      "缝晴",
+      "两字短，缝补与晴朗形成设计意图",
+      "谐音风情，口头需要确认汉字"
+    ],
+    [
+      "续衣间",
+      "业务容易理解",
+      "描述性较强"
+    ],
+    [
+      "补一会",
+      "轻松、适合课程",
+      "不够覆盖长期维修服务"
+    ]
+  ],
+  "font": "cjk",
+  "ink": "#623747",
+  "paper": "#F4DDD9",
+  "accent": "#B76770",
+  "support": "#D8A44E",
+  "pronunciation": "féng qíng",
+  "min": 160,
+  "chosen_concept": "A",
+  "name_screening_status": "partially checked; availability unverified",
+  "visual_screening_status": "not completed; no claim of originality or exclusivity",
+  "name_rationale": "用修补的缝与转晴的晴建立关系，表达衣服继续被穿着的明亮情绪。",
+  "searches": [
+    {
+      "query": "\"缝晴\" 修补",
+      "date": "2026-10-02",
+      "source": "Exa search result excerpts",
+      "status": "partial",
+      "links": [
+        "https://tiku.youtike.com/question/3958939.html",
+        "https://www.paizi100.com/pinpai/qingfanyiju.html",
+        "https://zhtw.birmiss.com/%E7%8E%A9%E5%85%B7%E7%94%A8%E8%87%AA%E5%B7%B1%E7%9A%84%E9%9B%99%E6%89%8B%E4%BA%86%E8%81%96%E8%AA%95%E6%A8%B9%E4%B8%8A%E7%9A%84%E9%82%8A%E8%A7%92%E5%BB%A2%E6%96%99%EF%BC%9A%E5%A4%A7%E5%B8%AB%E7%8F%AD/"
+      ]
+    }
+  ],
+  "checks_not_performed": [
+    "商标、域名和社交账号可用性",
+    "完整外部图形相似性核查",
+    "真实受众认读、听写与记忆测试",
+    "完整品牌系统和平台上架包"
+  ],
+  "screening_findings": "检索结果多为单独汉字和低相关文本，未取得可核实的同名修补品牌结论。缝晴与逢晴同音是设计选择，听写仍需测试。",
+  "recommended_mark_minimum_px": 32,
+  "visual_decision": {
+    "concept": "A",
+    "reason": "开放日轮和回环线表达修补后的延续，比补丁图标更贴合名字的情绪。",
+    "refinement": "加粗主线，并将整个轮廓收进画布；最右光线与上方光线不再靠近裁切边缘。",
+    "usage": "中文字标建议至少 160 px；复杂的缝字不压缩到小头像。"
+  }
+}

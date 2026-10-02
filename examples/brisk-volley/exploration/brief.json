@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-02",
+  "skill": "../../skills/imprint/SKILL.md",
+  "skill_sha256": "519e787cdf6277b2e9c5caeb64dbf3b3917a53bde0ee0dc433c4a35dd548fad3",
+  "id": "10-brisk-volley",
+  "name": "Brisk Volley",
+  "roman": "BRISK VOLLEY",
+  "category": "业余羽毛球俱乐部",
+  "brief": "面向成年初学者和下班后打球的人，组织水平匹配的羽毛球练习。",
+  "position": "把下一拍打出去，不必先成为高手。",
+  "traits": [
+    "有动势：倾斜和不等长端点",
+    "开放：明亮色块而非黑色竞技威慑",
+    "直接：粗壮大写字标"
+  ],
+  "anti": [
+    "冠军或战绩虚构",
+    "攻击性猛兽",
+    "廉价速度拖影"
+  ],
+  "territories": [
+    [
+      "击球动作",
+      "Brisk Volley",
+      "Next Rally"
+    ],
+    [
+      "社交邀约",
+      "Court Company",
+      "Play After"
+    ],
+    [
+      "轻盈节奏",
+      "Feather Tempo",
+      "Airbeat Club"
+    ]
+  ],
+  "shortlist": [
+    [
+      "Brisk Volley",
+      "短促、动势明确",
+      "不限于羽毛球，须配说明"
+    ],
+    [
+      "Court Company",
+      "社交气质友好",
+      "同类命名常见"
+    ],
+    [
+      "Feather Tempo",
+      "轻盈节奏清楚",
+      "易偏艺术机构"
+    ]
+  ],
+  "font": "condensed",
+  "ink": "#192847",
+  "paper": "#E9F2FF",
+  "accent": "#FF6047",
+  "support": "#A7CBE9",
+  "pronunciation": "brisk VOL-ee",
+  "min": 220,
+  "chosen_concept": "A",
+  "name_screening_status": "partially checked; availability unverified",
+  "visual_screening_status": "not completed; no claim of originality or exclusivity",
+  "name_rationale": "把轻快的节奏与来回击球放在一起，表达下班后也能加入的一场球。",
+  "searches": [
+    {
+      "query": "\"Brisk Volley\" badminton",
+      "date": "2026-10-02",
+      "source": "Exa search result excerpts",
+      "status": "partial",
+      "links": [
+        "https://swinton.dearnevalleyhistory.org.uk/article/badminton-at-swinton-congregational-church/",
+        "https://thepadelpaper.com/padel-haus-pitches-up-in-new-york/",
+        "https://www.padelful.com/en/rackets/adidas-drive-grey-3-4-2025"
+      ]
+    }
+  ],
+  "checks_not_performed": [
+    "商标、域名和社交账号可用性",
+    "完整外部图形相似性核查",
+    "真实受众认读、听写与记忆测试",
+    "完整品牌系统和平台上架包"
+  ],
+  "screening_findings": "Brisk Volley 的结果包含羽毛球文章中的普通词组用法。未取得可核实的同名俱乐部结论；普通语词也意味着名称独占性可能较弱。",
+  "recommended_mark_minimum_px": 16,
+  "visual_decision": {
+    "concept": "A",
+    "reason": "分开的羽片和底托带来明确的羽毛球语境；B 像通用回转符号，C 的场地图形太宽泛。",
+    "refinement": "保留羽片间的空隙和底托分离；没有为了制造迭代而给已清楚的轮廓增加装饰。",
+    "usage": "不把标志理解为获奖、排名或职业竞技认证。"
+  }
+}

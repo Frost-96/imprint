@@ -1,0 +1,184 @@
+{
+  "case": "Rattle Bureau",
+  "file_status": "PASS",
+  "failures": [],
+  "sources": [
+    {
+      "file": "sources/logo-color.svg",
+      "sha256": "d69d509a2b5b0a948cf783ea89fadfb641544c8487debf409206891a4b2258e9",
+      "canvas": [
+        552,
+        183
+      ],
+      "visible_bounds": [
+        35,
+        20,
+        527,
+        151
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/logo-black.svg",
+      "sha256": "74664299279d39763fc61e5ba3a7da1fe8025cae0d3991adbb13be0588ff0369",
+      "canvas": [
+        552,
+        183
+      ],
+      "visible_bounds": [
+        35,
+        20,
+        527,
+        151
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/logo-white.svg",
+      "sha256": "4c15c32e9f1b3c0e547a120bf92de36c31e910e3878f2100abfe43920e024bbc",
+      "canvas": [
+        552,
+        183
+      ],
+      "visible_bounds": [
+        35,
+        20,
+        527,
+        151
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/wordmark-color.svg",
+      "sha256": "36f11de45a2e1350a671403ebfbb0e6a4eae17945a61aacfdc24e6c90226671b",
+      "canvas": [
+        377,
+        171
+      ],
+      "visible_bounds": [
+        20,
+        20,
+        357,
+        151
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/wordmark-black.svg",
+      "sha256": "29c005656e64f5e783092f9b8b52b386bb6d16d5f6f406dbb59887733b7c19de",
+      "canvas": [
+        377,
+        171
+      ],
+      "visible_bounds": [
+        20,
+        20,
+        357,
+        151
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/wordmark-white.svg",
+      "sha256": "19d77bed8857ecd236b5bcd438128503dc64f3692445ee53aaab6210dc0e1284",
+      "canvas": [
+        377,
+        171
+      ],
+      "visible_bounds": [
+        20,
+        20,
+        357,
+        151
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/mark-color.svg",
+      "sha256": "a1a37972e8a713fa937a2a76b5cb6cf5d83b0d77dbd84ee93bf96494edacdfac",
+      "canvas": [
+        256,
+        256
+      ],
+      "visible_bounds": [
+        41,
+        31,
+        216,
+        218
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/mark-black.svg",
+      "sha256": "34e6d80701b34f167ca596510eb1def7663372234376eaa03e11ac7530226a37",
+      "canvas": [
+        256,
+        256
+      ],
+      "visible_bounds": [
+        41,
+        31,
+        216,
+        218
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/mark-white.svg",
+      "sha256": "1c2215c8d95935115e1fddac1e6aa08240b0b241816dfcd7364f08f417933071",
+      "canvas": [
+        256,
+        256
+      ],
+      "visible_bounds": [
+        41,
+        31,
+        216,
+        218
+      ],
+      "text_source": false
+    },
+    {
+      "file": "sources/wordmark-text.svg",
+      "sha256": "40150c28af4ecea13666e5d884892d5743ccbbbd3473fc5896ad7e2f23a44e94",
+      "canvas": [
+        377,
+        171
+      ],
+      "visible_bounds": [
+        20,
+        20,
+        357,
+        151
+      ],
+      "text_source": true
+    },
+    {
+      "file": "sources/mark-small.svg",
+      "sha256": "6514b56e576f879c0b625fb70301fe3f62d464236483628b6b0a588787315ea1",
+      "canvas": [
+        256,
+        256
+      ],
+      "visible_bounds": [
+        41,
+        31,
+        216,
+        218
+      ],
+      "text_source": false
+    }
+  ],
+  "font_render_comparison": {
+    "width": 2400,
+    "alpha_iou": 1.0,
+    "rgba_mean_absolute_error": 1.5318627450980392e-06
+  },
+  "visual_status": "Reviewed actual 1024/256/64/32/16 px marks, three concepts, monochrome refinement/reverse, actual minimum-width logo, finished light/dark board.",
+  "name_status": "provisional; limited public search only",
+  "external_visual_screening": "not completed",
+  "full_logo_minimum_width": 210,
+  "visual_limitations": "图形推荐 32 px 起；16 px 的梁与圆间距较弱，仅作诊断。",
+  "model_visual_judgment": true,
+  "recommended_mark_minimum_px": 32
+}

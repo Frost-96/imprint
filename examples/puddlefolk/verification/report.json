@@ -1,0 +1,231 @@
+{
+  "case": "Puddlefolk",
+  "status": "PASS: asset integrity and local rendering checks",
+  "checks": [
+    {
+      "file": "sources/app-icon-small.svg",
+      "vector_only": true,
+      "rendered_size": [
+        256,
+        256
+      ],
+      "ink_bbox": [
+        0,
+        0,
+        256,
+        256
+      ],
+      "sha256": "a6115707d2b74e8699c1f152ebf2cfb9fe72b28225f114eedaa40297344738f8"
+    },
+    {
+      "file": "sources/app-icon.svg",
+      "vector_only": true,
+      "rendered_size": [
+        256,
+        256
+      ],
+      "ink_bbox": [
+        0,
+        0,
+        256,
+        256
+      ],
+      "sha256": "96f37783450fe0ea14522949c7d7050f773156bd0be6046b490096004a56ce5f"
+    },
+    {
+      "file": "sources/logo-black.svg",
+      "vector_only": true,
+      "rendered_size": [
+        569,
+        146
+      ],
+      "ink_bbox": [
+        18,
+        32,
+        553,
+        130
+      ],
+      "sha256": "605b2e500f24dc7602d03f52b12fa167b94912da48c6ba80d4ddae67d5a94f79"
+    },
+    {
+      "file": "sources/logo-color.svg",
+      "vector_only": true,
+      "rendered_size": [
+        569,
+        146
+      ],
+      "ink_bbox": [
+        18,
+        32,
+        553,
+        130
+      ],
+      "sha256": "aae3a8080978ad5efe2edfb584a5f49ad3c9256b7f7db2af1844479ed8a19f5e"
+    },
+    {
+      "file": "sources/logo-white.svg",
+      "vector_only": true,
+      "rendered_size": [
+        569,
+        146
+      ],
+      "ink_bbox": [
+        18,
+        32,
+        553,
+        130
+      ],
+      "sha256": "e2764974e5cdecc2be94b77bf6fcf3abfa8ca5d17fc506db437a8b3fb9235063"
+    },
+    {
+      "file": "sources/logo-with-character.svg",
+      "vector_only": true,
+      "rendered_size": [
+        883,
+        288
+      ],
+      "ink_bbox": [
+        33,
+        26,
+        847,
+        230
+      ],
+      "sha256": "7ab8838decf016a3047ec3eb263f34605fc957eb27fcd126f5622c1d11624394"
+    },
+    {
+      "file": "sources/mark-black.svg",
+      "vector_only": true,
+      "rendered_size": [
+        256,
+        256
+      ],
+      "ink_bbox": [
+        19,
+        25,
+        248,
+        213
+      ],
+      "sha256": "6b99e8d9e0714bc72b9c11632009109db6aa9d00afed6741f85d32d630fabc8e"
+    },
+    {
+      "file": "sources/mark-color.svg",
+      "vector_only": true,
+      "rendered_size": [
+        256,
+        256
+      ],
+      "ink_bbox": [
+        19,
+        25,
+        248,
+        213
+      ],
+      "sha256": "cb210b7556e6558ae0d7283caf9b84f322eeb84d92aa70f9d27930b30ce869e1"
+    },
+    {
+      "file": "sources/mark-small.svg",
+      "vector_only": true,
+      "rendered_size": [
+        256,
+        256
+      ],
+      "ink_bbox": [
+        39,
+        31,
+        232,
+        214
+      ],
+      "sha256": "c9e9a376dc75473a318377ae6e65960a49d08b568ba13982a39a3246194f9968"
+    },
+    {
+      "file": "sources/mark-white.svg",
+      "vector_only": true,
+      "rendered_size": [
+        256,
+        256
+      ],
+      "ink_bbox": [
+        19,
+        25,
+        248,
+        213
+      ],
+      "sha256": "1cfa291271522faafca6147da2a1a7493a59b1951716f33000715833a9d0e8ff"
+    },
+    {
+      "file": "sources/wordmark-black.svg",
+      "vector_only": true,
+      "rendered_size": [
+        569,
+        146
+      ],
+      "ink_bbox": [
+        18,
+        32,
+        553,
+        130
+      ],
+      "sha256": "37d51527d7058bea6174317029758b99223777cb2b1c76930f3dedd6edcf9cf1"
+    },
+    {
+      "file": "sources/wordmark-color.svg",
+      "vector_only": true,
+      "rendered_size": [
+        569,
+        146
+      ],
+      "ink_bbox": [
+        18,
+        32,
+        553,
+        130
+      ],
+      "sha256": "68e08504e3fe3f5b60205242afb4a848baaec886f4531390e56f7547e9f173d7"
+    },
+    {
+      "file": "sources/wordmark-text.svg",
+      "vector_only": true,
+      "rendered_size": [
+        569,
+        146
+      ],
+      "ink_bbox": [
+        18,
+        32,
+        553,
+        130
+      ],
+      "sha256": "8d27b6cc79d438c83c4ce923f4ba50eca897c3771142b1cd2a9358fbadd6c5ab"
+    },
+    {
+      "file": "sources/wordmark-white.svg",
+      "vector_only": true,
+      "rendered_size": [
+        569,
+        146
+      ],
+      "ink_bbox": [
+        18,
+        32,
+        553,
+        130
+      ],
+      "sha256": "9114ebc96b32094562e41812d6b4bf26ef0919a37fd7579521424f4c04799d92"
+    }
+  ],
+  "editable_text_outline_alpha_iou": 1.0,
+  "editable_text_outline_mean_absolute_rgba_error": 9.46969696969697e-06,
+  "icon_sizes_verified": [
+    1024,
+    256,
+    64,
+    32,
+    16
+  ],
+  "recommended_minimum_logo_width": 180,
+  "limits": [
+    "Size recommendation is a visual judgement, not audience testing.",
+    "No trademark clearance or complete external visual collision review.",
+    "Generic square icon canvases; not platform-specific submission packages."
+  ]
+}

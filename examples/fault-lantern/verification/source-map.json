@@ -1,0 +1,66 @@
+{
+  "name": "Fault Lantern",
+  "min_logo": 280,
+  "variants": {
+    "logo-color": {
+      "width": 740,
+      "height": 100,
+      "sha256": "0eb8e28d6b6e3e6513e3316610acb3fe99eda12ba6e44168abee33e8304fcb94"
+    },
+    "wordmark-color": {
+      "width": 632,
+      "height": 92,
+      "sha256": "33030d509b8c6d137200fabd77a308593a7d814b993384fef8cf4859d3625554"
+    },
+    "mark-color": {
+      "width": 256,
+      "height": 256,
+      "sha256": "437263d7cb32bc170ecca58423b6e1990858f41365c194a28da234a0a2182855"
+    },
+    "logo-black": {
+      "width": 740,
+      "height": 100,
+      "sha256": "33240e5b6e3b3e3080e74141cee368f251a5d4b38e66bf6a611600e6de7d6ece"
+    },
+    "wordmark-black": {
+      "width": 632,
+      "height": 92,
+      "sha256": "3cfa5097fd09f0b8d707aeb6e2df1baefba3b2c1a3fb476b29f4b2a46735d567"
+    },
+    "mark-black": {
+      "width": 256,
+      "height": 256,
+      "sha256": "ff7b6156c7ddb1da89e6b7717a58e7ab33dea9cba8bafe4ef83d70e5ef1e94e6"
+    },
+    "logo-white": {
+      "width": 740,
+      "height": 100,
+      "sha256": "b2c930433025e859e985a4f81228baefcacb64ea63db7c9591ffd19bfa849ff4"
+    },
+    "wordmark-white": {
+      "width": 632,
+      "height": 92,
+      "sha256": "c81373b2eb1c1c58b8738db56386723081385e81cce20d61bd5c3585fe314a47"
+    },
+    "mark-white": {
+      "width": 256,
+      "height": 256,
+      "sha256": "c574d10427b23f72badf0eab09f89e3517781a45bd81a2b458a0e64607363334"
+    },
+    "mark-small": {
+      "width": 256,
+      "height": 256,
+      "sha256": "437263d7cb32bc170ecca58423b6e1990858f41365c194a28da234a0a2182855"
+    },
+    "app-icon": {
+      "width": 256,
+      "height": 256,
+      "sha256": "405fc487156cc72293b178eb4308e89494c6e97735f4826c30d52bafd242d731"
+    },
+    "app-icon-small": {
+      "width": 256,
+      "height": 256,
+      "sha256": "405fc487156cc72293b178eb4308e89494c6e97735f4826c30d52bafd242d731"
+    }
+  }
+}
