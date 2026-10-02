@@ -18,7 +18,7 @@ Add `-g` to make the skill available across projects.
 npx skills add Frost-96/imprint -g
 ```
 
-For manual installation, place `SKILL.md`, `agents/`, and `references/` together in an `imprint` folder inside your agent's skills directory.
+For manual installation, copy the [`skills/imprint/`](skills/imprint/) folder into your agent's skills directory. It contains `SKILL.md`, `agents/`, and `references/`.
 
 ## Get started
 
@@ -48,7 +48,7 @@ For a new identity, the workflow moves from product understanding and strategy t
 - **Design for the placement.** Adapt the identity for app icons, navigation, and other intended uses; inspect the actual artwork at relevant sizes.
 - **Verify the handoff.** Check editable sources and exports, and make incomplete work or unresolved findings explicit.
 
-Existing names, assets, and accepted choices stay fixed unless you authorize changes. The full workflow lives in [SKILL.md](SKILL.md), with detailed guidance in [references/](references/).
+Existing names, assets, and accepted choices stay fixed unless you authorize changes. The full workflow lives in [SKILL.md](skills/imprint/SKILL.md), with detailed guidance in [references/](skills/imprint/references/).
 
 ## What you receive
 
