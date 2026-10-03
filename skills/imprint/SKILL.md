@@ -1,19 +1,29 @@
 ---
 name: imprint
-description: Design a product brand identity through product understanding, brand strategy, naming, logo construction, app icon adaptation, and a verified brand handoff. Use for complete identities or focused naming, logo, and app icon work.
+description: Design product names, brand logos, and application icons, separately or together. Use for a complete identity, a name and app icon without a logo, or focused work on an existing brand.
 ---
 
 # Imprint — Brand Identity Designer
 
-Build an identity with a product rationale, a distinct personality, a recognizable visual form, and usable production assets. Strategy precedes aesthetics; concept precedes execution; monochrome construction precedes effects; distinctiveness precedes decoration. App icons adapt the identity to their use. Names and visuals should express a shared brand idea without requiring literal illustration of product features. Discuss the work in the user's language; establish naming languages and markets from the brief.
+Build an identity with a product rationale, a distinct personality, a recognizable visual form, and usable production assets. Strategy precedes aesthetics; concept precedes execution; distinctiveness precedes decoration. Naming, brand marks, and product icons answer different questions: what it is called, who the brand is, and which application is on the user's device. Logos use monochrome construction before effects; product icons use structure before finish. Names and visuals share a brand idea without requiring literal illustration of product features. Discuss the work in the user's language; establish naming languages and markets from the brief.
 
 ## Scope and operating rules
 
 Read available product material and inspect supplied assets. Identify fixed decisions, preferences, open choices, requested deliverables, and resource limits. Reuse established facts instead of re-interviewing the user. Ask only for missing information that would materially change the work, bundling essential questions.
 
-For a complete new identity, follow the workflow below. Naming-only work uses the brief, strategy, naming, applicable evidence checks, and handoff. Logo-only work reuses the accepted name and follows the visual stages. Icon adaptation starts from inspection of the supplied identity and strategy, followed by adaptation, size tests, and handoff; a supplied logo is not permission to redesign it. Focused refinements reopen only affected decisions and downstream checks. Mark skipped stages as outside scope or already established, with a short reason.
+Establish the requested deliverables before developing the brief and strategy; clarify ambiguous scope and reuse explicit requests without asking again. Naming, Brand Mark, and Product Icon are peer workflows; run only the requested ones:
 
-Existing names and assets remain fixed unless revision is authorized. New complete identities use strategy → naming → visual development by default. An explicit user request for a different sequence overrides that default; retain applicable strategy and quality checks. A wordmark can be a complete logo; do not invent a symbol merely to fill a package.
+| Request | Route |
+| --- | --- |
+| Naming only | Naming Territories → Final Naming Shortlist → verbal handoff |
+| Logo only | Reuse established name/strategy → Visual Direction through Finished Logo → applicable checks |
+| Application icon, with or without an existing logo | Product Icon Design → icon-specific checks and handoff; logo production is not a prerequisite |
+| Name and application icon | Naming plus Product Icon; no unrequested logo |
+| Complete identity | Naming, Brand Mark, and Product Icon when applicable → Brand Family Check → handoff |
+
+Read only references needed for the active route. Product icons are application identities, not UI toolbar/action icon sets. Existing assets provide brand context; they are not mandatory construction templates. Focused refinements reopen only affected decisions and downstream checks. Mark skipped stages as outside scope or already established, with a short reason.
+
+Existing names and assets remain fixed unless revision is authorized. New complete identities use strategy → naming → visual development by default; identify icon platforms and constraints before selecting visual concepts. Brand Mark and Product Icon can develop from the same strategy without waiting for a finished logo. An explicit user request for a different sequence overrides that default; retain applicable strategy and quality checks. A wordmark can be a complete logo; do not invent a symbol merely to fill a package.
 
 When the user retains a consequential choice, present the evaluated shortlist or concepts and obtain that choice before committing downstream. When selection and continuation are delegated, select with reasons and proceed. Routine refinement within the chosen direction needs no repeated approval; reopening a fixed choice requires existing authority or a specific user decision.
 
@@ -33,6 +43,8 @@ Derive positioning, brand personality, 3–5 consequential traits, and correspon
 
 Complete when the strategy distinguishes a suitable direction from a plausible but wrong one and supports plausible future development. Anchor later decisions to it; update it explicitly if product understanding changes.
 
+Record shared brand DNA: the few personality, color, shape, geometry, typography, or conceptual relationships that should survive across the requested assets. Keep platform specifications outside this record. The icon may share the logo's form when concept exploration supports that choice; neither sameness nor difference is a requirement.
+
 ## Naming Territories and Candidates
 
 For naming work, read [naming exploration and evaluation](references/naming.md). Establish a few strategically different territories before generating candidates. Record each territory's core idea, product connection, intended perception, opportunity, and risk. Engineering, behavior, culture, sound, or metaphor are possible sources, not mandatory categories. Territories must differ in brand idea or perception, rather than merely word endings.
@@ -48,6 +60,8 @@ Compare names without persuasive origin stories, then assess product fit. Addres
 Present a small final shortlist, normally 3–5 names unless the user specifies otherwise; fewer strong names are preferable to padding. Include comparable rationale, reading where needed, strengths, risks, and actual screening status. Obtain or make the authorized selection, then deepen screening within scope. Selection does not establish availability. A naming-only task completes with its requested verbal deliverables and honest evidence status; unrequested visual work is outside scope.
 
 ## Visual Direction
+
+This and the following logo stages apply to Brand Mark work. Product Icon work enters its own workflow below.
 
 After name selection, or using the established identity for visual-only work, read [visual workflow](references/visual-workflow.md). Define visual language, geometry, composition, complexity, typography, symbol character, and brand-specific anti-patterns. Record a provisional color intention from strategy; actual palette exploration waits until monochrome structure is sound.
 
@@ -77,15 +91,19 @@ Derive primary, supporting, neutral, and background color roles from strategy. S
 
 Inspect the complete treatment, applicable wordmark/lockup, and actual light/dark placements. Any effects belong to a deliberate finished treatment with a viable unadorned core. Check the finished artwork itself, not only an attractive mockup. Recheck structure and affected uses after material geometry changes.
 
-## App Icon Adaptation
+## Product Icon Design
 
-When in scope, read [product marks and app icons](references/product-marks.md). Adapt the identity to the app canvas instead of dropping the logo into a rounded square. Adjust simplification, strokes, negative space, visual weight, composition, and optical balance. Small structural differences are legitimate when they preserve perceived identity across uses.
+Read the [icon workflow](references/icons/workflow.md) for every application-icon request, including name-plus-icon, existing-logo work, and style trials. It governs scope, exploration and concept choices, final-version selection, and completion. Discover preferences through [style choices and design language](references/icons/direction.md); its five starting choices route to composable subject and rendering guides. Reuse explicit preferences and references, and help an undecided user choose with concrete options and a reasoned recommendation. Keep exploration authority distinct from authority to select the final icon.
 
-For icon-only work, inspect the existing logo's monochrome structure; report inherited limitations without silently redesigning the fixed logo. Build the complete icon treatment after its structural basis is sound. Inspect its composition and relationship to the brand mark separately from the logo itself.
+Explore distinct concepts through inexpensive actual sketches, then resolve silhouette, composition, hierarchy, and structure before finish. Color and depth can carry icon identity without requiring monochrome-logo viability. Use [platform execution](references/icons/platforms.md) before target constraints can invalidate the selected concept and for exact-size and environment checks. Evaluate identity, icon function, and craft separately. Prepare a review-ready result and obtain the final choice under the icon workflow before calling the icon complete; keep masters, platform assets, and presentation previews distinct.
+
+## Brand Family Check
+
+When two or more identity components exist, inspect their current versions together, including supplied fixed assets. Evaluate personality, color relationships, geometry/shape language, visual tone, conceptual connection, and quality level. Establish a plausible shared family without requiring duplicated shapes or deliberately different ones. In naming-plus-icon work assess only those components; do not create a logo to fill the check. Reconcile mismatches through authorized choices, then repeat affected checks.
 
 ## Small-Size Test
 
-Render and inspect the applicable logo/icon at 1024, 256, 64, 32, and 16 px; these are study sizes, not platform export specifications. For a non-square logo, preserve aspect ratio and record the size convention, then also test the actual intended width and height. Use [asset verification](references/asset-production.md) for rendering requirements.
+For logos, render and inspect at 1024, 256, 64, 32, and 16 px. Product icons add 128 px and the size/environment checks in their own workflow. These are study sizes, not platform export specifications; a 16 px stress test does not add favicon delivery to the scope. For a non-square logo, preserve aspect ratio and record the size convention, then also test the actual intended width and height. Use [asset verification](references/asset-production.md) for rendering requirements.
 
 Inspect recognition, collapsing negative spaces, merging details, shifted balance, edges, and optical corrections. Check applicable favicon, mobile icon, avatar, and navigation uses. Derive a simplified small-size variant where needed and test its actual assigned sizes. State unsupported sizes or uses; do not pretend one rendering serves every placement.
 
@@ -93,12 +111,12 @@ Inspect recognition, collapsing negative spaces, merging details, shifted balanc
 
 Assess professional execution and brand distinctiveness separately. Inspect geometry, optical balance, tested sizes, specific identity, product relevance, name–visual coherence, plausible longevity, and system extension. For naming-only work, use verbal quality instead of visual production criteria.
 
-Challenge existing-brand similarity, generic AI/startup imagery, trend dependence, narrow feature association, color dependence, and polished anonymity. Ask whether replacing the name would let the mark fit almost any SaaS product. Identify concrete evidence; common elements are not automatically defects. Verify factual conflict claims through [screening](references/screening.md), rather than treating model familiarity as evidence.
+Challenge existing-brand similarity, generic AI/startup imagery, trend dependence, narrow feature association, and polished anonymity. For logos, inspect dependence on color against required monochrome uses; for icons, evaluate intentional color identity across required appearances rather than imposing monochrome-logo criteria. Ask whether replacing the name would let the design fit almost any other product. Identify concrete evidence; common elements are not automatically defects. Verify factual conflict claims through [screening](references/screening.md), rather than treating model familiarity as evidence.
 
 Resolve material failures at the responsible stage. Model judgment cannot establish actual audience recall, legal availability, or future market success. Verify the exact delivered files using the production reference; aesthetic confidence and technical validity do not substitute for each other.
 
 ## Final Brand Handoff
 
-Read [asset production and handoff](references/asset-production.md). Deliver the scope-appropriate package: name and pronunciation/origin/rationale; positioning and personality with traits/anti-traits; primary logo, applicable wordmark, monochrome and reversed forms with construction logic; app icon and necessary small-size variants; color and applicable typography roles; clear space, minimum size, backgrounds and misuse guidance; and rationale connecting name, visuals, audience, and future development. For a complete identity, demonstrate the visual language in a relevant intended use as described in the handoff reference.
+Read [asset production and handoff](references/asset-production.md). Deliver the scope-appropriate package: name and pronunciation/origin/rationale; positioning and personality with traits/anti-traits; primary logo, applicable wordmark, monochrome and reversed forms with construction logic; product-icon master, requested platform executions, necessary optical variants, environment evidence, and source/export status; color and applicable typography roles; clear space, minimum size, backgrounds and misuse guidance; and rationale connecting name, visuals, audience, and future development. For a complete identity, demonstrate the visual language in a relevant intended use as described in the handoff reference.
 
 Save actual editable sources, exports, previews, usage guidance, and evidence status in the workspace or user-selected directory. Explain the selection and remaining uncertainty. Completion means the requested assets and decisions are delivered, material design defects are resolved, and required file/use checks are performed. Missing requested formats, failed required uses, or unresolved material defects require a partial handoff. Keep external screening limitations explicit without turning unrequested research into a delivery dependency.

@@ -1,7 +1,0 @@
-{
-  "method": "Compare thresholded black original against traced full-canvas alpha at original 1254x1254 size",
-  "alpha_ink_iou": 0.9878174549369096,
-  "source": "../exploration/frog-original.png",
-  "trace": "../exploration/frog-paths.svg",
-  "limitation": "This measures contour fidelity only, not legal originality or design quality."
-}

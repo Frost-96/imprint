@@ -1,6 +1,8 @@
 # Figurative marks
 
-Read when the subject is open, or when developing a recognizable animal, plant, person, object, or scene fragment. A figurative mark can be restrained, geometric, expressive, or highly simplified; a mascot is one optional branch. Apply the Product Brief, Brand Strategy, fixed decisions, and selection rules. Explore concepts first, then construct the selected mark in monochrome before color or effects.
+Read for Brand Mark work when the subject is open, or when developing a recognizable animal, plant, person, object, or scene fragment. A figurative mark can be restrained, geometric, expressive, or highly simplified; a mascot is one optional branch. Apply the Product Brief, Brand Strategy, fixed decisions, and selection rules. Explore concepts first, then construct the selected mark in monochrome before color or effects.
+
+For an application identity icon, use [product icon design](icons/workflow.md). The monochrome-first requirements here apply to Brand Mark work, including figurative logos.
 
 ## Find a subject through the product
 

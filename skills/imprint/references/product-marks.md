@@ -1,31 +1,31 @@
-# Product marks and app icon adaptation
+# Product marks in placements
 
-Read when adapting the identity into an app icon, or earlier when a target use affects concept feasibility. Establish whether the reference is a standalone mark, wordmark, website logo, app icon, or marketing illustration. Inspect the version actually supplied; do not infer an app icon from a website navigation glyph.
+Read for website, navigation, avatar, and other placements of an established mark. For an application identity icon, enter [Product Icon Design](icons/workflow.md), including when the input is an existing logo. Establish whether the reference is a standalone mark, wordmark, website logo, app icon, or marketing illustration. Inspect the version actually supplied; do not infer an app icon from a website navigation glyph.
 
-## Adapt an established identity
+## Compact marks
 
-Logo and App Icon are different applications. Begin with the selected mark, its defining features, and the strategy. For a complete identity, icon adaptation follows monochrome construction and color-system work. An existing logo can enter here after inspection; inherited weaknesses do not authorize an unrequested redesign.
+For authorized compact variants, begin with the selected mark, its defining features, and strategy. Inherited weaknesses do not authorize an unrequested redesign. This placement work does not replace the independent product-icon workflow.
 
-Compose the icon subject and canvas together. Adjust:
+Compose the mark and its placement together. Adjust:
 
 - Simplification and retention of the features carrying identity.
 - Stroke weight, internal openings, and separation of nearby masses.
 - Scale, crop, optical center, foreground/background relationship, and edge spacing.
-- The relationship between the icon and the full logo across placements.
+- The relationship between compact and full marks across placements.
 
-Permit small structural differences for visual consistency; a mathematically identical downscale can look weaker or lose essential spaces. Keep canonical logo and icon sources distinct. A letter inside a rounded square requires a specific brand rationale, not automatic acceptance as an adaptation.
+Permit small structural differences for visual consistency; a mathematically identical downscale can look weaker or lose essential spaces. Keep canonical and optical sources distinct with assigned uses.
 
-After structure is established, choose the final color/background and any appropriate material or depth. Effects enhance the identity, not rescue a generic or broken core. Keep lighting coherent and detail subordinate to readable masses. A core-symbol export alone is not the finished icon.
+Use the established color/background treatments and inspect the whole placement. Effects cannot rescue a generic or broken core.
 
 ## Placement and size studies
 
 Render the actual candidate at 1024, 256, 64, 32, and 16 px, preserving aspect ratio. Large views reveal craft; smaller views test recognition, weight, openings, and detail merging. These are study sizes, not claims about platform requirements. Verify actual platform requirements when platform export packages are requested.
 
-Use actual-size views as well as enlarged diagnostics. Record whether a dimension describes the canvas or visible artwork. Inspect applicable mobile/desktop icon, avatar, navigation, and favicon placements; mark unrelated uses outside scope. A dock-like preview does not establish a valid platform package.
+Use actual-size views as well as enlarged diagnostics. Record whether a dimension describes the canvas or visible artwork. Inspect requested avatar, navigation, and favicon placements; mark unrelated uses outside scope. Application icons use their separate platform/environment checks.
 
 If reduction fails, first adjust spacing, weight, and selective simplification. Produce a separate small-size variant where necessary, retaining the defining brand feature. Record which sizes use which version and the minimum supported size. An unresolved failure must remain in the handoff; do not declare 16 px usable merely because an image file exists.
 
-After size testing, inspect the complete icon and current size variants alongside the logo for perceptual consistency. Judge the adapted composition and reduction on their own evidence; a usable logo does not establish a usable icon. Repeat affected size checks after revisions.
+After size testing, inspect compact and full variants for perceptual consistency. Judge composition and reduction on their own evidence; a usable logo does not establish a usable application icon. Repeat affected checks after revisions.
 
 ## Website logo
 

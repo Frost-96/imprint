@@ -1,6 +1,8 @@
 # Character and mascot marks
 
-Use this reference when the user's request or the chosen product concept calls for an expressive character or mascot. For open subject exploration or figurative marks without character treatment, use [figurative marks](figurative-marks.md). Apply the established brand strategy, subject constraints, concept review, monochrome-first construction, and asset checks.
+Use this reference for Brand Mark work when the user's request or the chosen product concept calls for an expressive character or mascot. For open subject exploration or figurative marks without character treatment, use [figurative marks](figurative-marks.md). Apply the established brand strategy, subject constraints, concept review, monochrome-first construction, and asset checks.
+
+For an application identity icon, use [product icon design](icons/workflow.md). The monochrome-first requirements here apply to Brand Mark work, including character logos.
 
 ## Build a recognizable character
 
