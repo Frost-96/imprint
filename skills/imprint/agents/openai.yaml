@@ -1,4 +1,4 @@
 interface:
   display_name: "Imprint — Brand & Product Identity"
   short_description: "Brand strategy, naming, logos, and app icons"
-  default_prompt: "Use $imprint to design the name, brand logo, or application icon my product needs, through focused concept exploration, refinement, and verified delivery."
+  default_prompt: "Use $imprint to establish the name, logo, or app icon my company, creative brand, or product needs, help me choose a direction, and prepare the finished result for my selection."

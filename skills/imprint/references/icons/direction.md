@@ -1,6 +1,6 @@
 # Icon style choices and design language
 
-Read for every application-icon request before concept rendering. The [icon workflow](workflow.md) owns scope, selection authority, and handoff. This reference discovers preferences and routes to construction guidance; the five choices below are an accessible menu, not mutually exclusive categories or a taxonomy for logos.
+Read for every application-icon request before concept rendering. The [icon workflow](workflow.md) applies the shared selection rules and specifies icon scope and handoff. This reference discovers preferences and routes to construction guidance; the five choices below are an accessible menu, not mutually exclusive categories or a taxonomy for logos.
 
 ## Discover the user's direction
 

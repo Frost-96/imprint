@@ -1,6 +1,6 @@
-# Product marks in placements
+# Logo applications
 
-Read for website, navigation, avatar, and other placements of an established mark. For an application identity icon, enter [Product Icon Design](icons/workflow.md), including when the input is an existing logo. Establish whether the reference is a standalone mark, wordmark, website logo, app icon, or marketing illustration. Inspect the version actually supplied; do not infer an app icon from a website navigation glyph.
+Read for website, navigation, avatar, print, and other requested placements of an established logo. For an application identity icon, enter [Product Icon Design](../icons/workflow.md), including when the input is an existing logo. Establish whether the reference is a standalone mark, wordmark, website logo, app icon, or marketing illustration. Inspect the version actually supplied; do not infer an app icon from a website navigation glyph.
 
 ## Compact marks
 
@@ -17,6 +17,8 @@ Permit small structural differences for visual consistency; a mathematically ide
 
 Use the established color/background treatments and inspect the whole placement. Effects cannot rescue a generic or broken core.
 
+A character emerging from a corner or using a close crop is an optional placement variant. Preserve the canonical mark's defining silhouette and derive the crop separately; protect paired features when needed while allowing an intentional profile or occlusion.
+
 ## Placement and size studies
 
 Render the actual candidate at 1024, 256, 64, 32, and 16 px, preserving aspect ratio. Large views reveal craft; smaller views test recognition, weight, openings, and detail merging. These are study sizes, not claims about platform requirements. Verify actual platform requirements when platform export packages are requested.
@@ -25,10 +27,12 @@ Use actual-size views as well as enlarged diagnostics. Record whether a dimensio
 
 If reduction fails, first adjust spacing, weight, and selective simplification. Produce a separate small-size variant where necessary, retaining the defining brand feature. Record which sizes use which version and the minimum supported size. An unresolved failure must remain in the handoff; do not declare 16 px usable merely because an image file exists.
 
+Distinguish a study-size failure from a failed required use. For requested print or physical applications, also check intended physical dimensions, reproduction method, and substrate/background constraints. A screen preview alone does not verify an embroidery, engraving, or print process; disclose unperformed production tests.
+
 After size testing, inspect compact and full variants for perceptual consistency. Judge composition and reduction on their own evidence; a usable logo does not establish a usable application icon. Repeat affected checks after revisions.
 
 ## Website logo
 
 Adapt the requested symbol, wordmark, or lockup for the actual page background and available width/height. Tune proportions, clear space, alignment, and color treatment. Preserve the same identity without assuming the website mark should use the app tile. Check horizontal marks at realistic dimensions rather than squeezing them into a square.
 
-Use [asset production](asset-production.md) for source fidelity, exports, actual-size inspection, and usage guidance. Re-run affected visual and file checks after material adaptation changes.
+Use [asset production](../asset-production.md) for source fidelity, exports, actual-size inspection, and usage guidance. Re-run affected visual and file checks after material adaptation changes.

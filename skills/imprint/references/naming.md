@@ -1,12 +1,22 @@
 # Naming directions and candidate evaluation
 
-Read when developing Naming Territories, candidates, and the reviewed shortlist, or when revising/finalizing a name. Use the established Product Brief and Brand Strategy, the main skill's scope and selection rules, and [conflict screening](screening.md). An accepted name remains fixed unless revision is authorized; screening it does not require inventing alternatives.
+Read for every naming request, including direction exploration, shortlist-only work, and final-name selection. Use the Identity Brief and Brand Strategy, [User choices](../SKILL.md#user-choices), and [conflict screening](screening.md). An accepted name remains fixed unless revision is authorized; screening it does not require inventing alternatives.
+
+## Discover naming preferences
+
+Establish what is being named: company, creative practice/brand, product, or application, and any relationship to existing names. Reuse the user's desired feeling and fixed constraints. Ask only about consequential gaps: naming languages and markets; direct description versus suggestive imagery or sound; desired tone; reading/spelling expectations; length preferences; and liked or disliked examples with reasons. For multiple languages, establish whether the user wants alternative names or a paired identity, and whether meaning, sound, or independent naturalness should connect the pair. Treat these as decision dimensions, not a mandatory questionnaire.
+
+When direction is open, offer a few brief-specific options with their intended impression, connection, and main trade-off. Explain choices in ordinary language: direct and readily understood, evocative and image-led, or invented and sound-led may be useful contrasts, but are not a fixed menu. A small illustrative word or phrase can make a direction concrete; label it as an unscreened illustration rather than a recommended or available name. The word-formation methods below are construction tools, not substitutes for asking how the identity should feel.
+
+Apply User choices to establish the chosen direction or authorized comparison before the candidate pool. An explicit request for a varied shortlist already authorizes exploring multiple directions; keep its relevant preferences and label each candidate's direction instead of demanding an extra territory decision. When a user says they have no ideas, help them compare options; a recommendation remains a proposal until chosen or delegated.
+
+Complete preference discovery when the record identifies the naming subject, relevant language/usage constraints, desired feeling, and chosen or authorized trial directions. For naming-plus-visual work, the name's tone informs the family; it does not predetermine a literal logo subject or icon style.
 
 ## Establish Naming Territories before candidates
 
 Establish a few distinct territories before generating candidate names. Record each territory's core idea, product/strategy connection, intended perception, advantages, and risks. Engineering metaphor, function, concept, science/mathematics, culture/history, product behavior, abstraction, and linguistic invention are possible sources rather than a mandatory menu.
 
-Use product facts → intended experience, value, or character → naming territory. Separate established capabilities from aspirations. Decide where the connection belongs: an explicit use, a desired feeling, a recognizable character, or an indirect image or metaphor. Product facts constrain the fit; their nouns and verbs need not supply the name's vocabulary.
+Use brief facts → intended experience, value, or character → naming territory. Separate established capabilities from aspirations. Decide where the connection belongs: an explicit use, a desired feeling, a recognizable character, or an indirect image or metaphor. The company, practice, or product constrains the fit; its nouns and verbs need not supply the name's vocabulary.
 
 For an open or metaphorical brief, explore the brand idea before collecting product keywords; make functional description the organizing principle only when the brief requires it. Identify a meaningful behavior, relationship, or tension in the experience, then look for analogous situations, objects, living things, roles, or cultural images outside the product category. For example, permission to experiment can connect to rehearsal: trying, revising, and trying again before a larger commitment. This illustrates a relationship, not a prescribed word source or candidate.
 
@@ -68,7 +78,11 @@ Evaluate each credible candidate without its origin story, then with the product
 
 Shortlist candidates supported by naming quality, with explicit external screening status. When screening is unavailable or outside the agreed task, a design shortlist may be delivered as availability-unverified; do not describe it as screened or final availability validation. Present normally 3–5 names unless the user specifies otherwise, each traceable to a territory. When replacing rejected candidates, try another formation if the territory is strong or broaden the underlying association if it is exhausted. Respect the main skill's resource limit; disclose an incomplete shortlist rather than promoting deferred candidates to fill it. Selection follows the user's retained or delegated authority. Deepen screening of the selected name before claiming completed screening; if unavailable or excluded, preserve that limitation in the selected-name record.
 
-## Record usage after selection
+## Final choice and handoff
+
+For a final-name task, present the reviewed shortlist with exact spelling, pronunciation guidance, intended impression, strengths, trade-offs, and actual screening status. Identify the recommendation and apply User choices to obtain selection of the exact name; an earlier territory preference does not select a candidate. Complete applicable checks before presenting it for selection, then deepen screening of the selected name within scope. If new evidence requires a replacement or material spelling change, present that decision to the user under the same authority rules.
+
+A shortlist-only task completes when its requested comparison and evidence status are delivered. A final-name task also requires a selected name and its usage record. While selection is pending, keep candidates labelled as options rather than treating the recommendation as the final brand or developing dependent final lettering. A user's acceptance establishes preference, not availability or linguistic verification.
 
 Record the selected name's canonical spelling, capitalization, spacing, pronunciation guidance, meaning/origin, territory, and selection rationale, distinguishing its written form from any agreed wordmark styling. Label pronunciation recommendations and coined meanings as design choices where appropriate. Add guidance on abbreviations, derivative names, or character voice only when relevant to the requested use; preserve established conventions for an existing brand. Keep this compact in the selected-name record rather than expanding a naming task into a full brand system.
 
@@ -82,4 +96,4 @@ Consult these only when an example helps distinguish methods. They establish rep
 - [Mailchimp's official guide](https://styleguide.mailchimp.com/writing-about-mailchimp/) describes a mail-delivering chimp metaphor and separately specifies the name's capitalization, prohibits splitting it into new names, and excludes writing in its mascot's voice. These are that brand's usage decisions, not universal restrictions on character-based names.
 - [flomo's official explanation](https://help.flomo.app/about-us) identifies flow and memo as its source words. This documents a blend's stated origin; the page provides no pronunciation, recall, or audience-comprehension testing.
 
-Use Final Naming Shortlist in the main skill, together with the screening reference, for final presentation; keep the exploration record concise rather than turning every candidate into a long origin story.
+Keep the exploration record concise rather than turning every candidate into a long origin story.
