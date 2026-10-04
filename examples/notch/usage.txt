@@ -1,0 +1,31 @@
+NOTCH — NAME + LOGO
+
+A fictional field-recording catalog for sound designers.
+Name: Notch (one syllable). Logo styling: NOTCH.
+
+USING THE LOGO
+Use exports/logo-color.svg on light surfaces, logo-black.svg for single-ink
+artwork, and logo-white.svg on dark backgrounds. PNG versions are 2048 × 522 px
+with transparent backgrounds.
+
+Preserve the SVG's proportions and canvas margins. The viewBox is
+-14 -14 424 108 and includes at least 14 source units of clear space.
+Use the complete logo at a canvas width of at least 160 px. Do not crop,
+stretch, rearrange the strips, close the notches, or replace the lettering.
+
+EDITING
+source/master.svg contains editable vector paths and requires no installed font.
+source/text-editable.svg keeps the lettering as live text. Install the bundled
+RangeTerminal font before editing it. RangeTerminal is a renamed static
+JetBrains Mono 500 instance. RangeBody, derived from Manrope 500, is used in
+the preview typography. Font sources and license notices are in fonts/.
+
+PREVIEWS
+previews/concepts.png compares symbol, lettering, and combined forms.
+previews/final.png shows color, black, and reversed versions.
+previews/application.png shows desktop and notebook mockups.
+
+LICENSE
+Project material uses the included MIT license. Fonts retain their SIL Open
+Font License notices. This is a fictional example; name and trademark
+availability have not been checked.

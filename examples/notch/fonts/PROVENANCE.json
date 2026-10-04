@@ -1,0 +1,22 @@
+{
+  "fonts": [
+    {
+      "role": "Logo lettering and technical labels",
+      "file": "fonts/RangeTerminal.ttf",
+      "family": "RangeTerminal",
+      "source": "https://raw.githubusercontent.com/google/fonts/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/jetbrainsmono/JetBrainsMono%5Bwght%5D.ttf",
+      "license": "SIL Open Font License 1.1",
+      "license_file": "fonts/jetbrainsmono-OFL.txt",
+      "derived_from": "JetBrains Mono 500; renamed static instance"
+    },
+    {
+      "role": "Preview/application explanatory typography",
+      "file": "fonts/RangeBody.ttf",
+      "family": "RangeBody",
+      "source": "https://raw.githubusercontent.com/google/fonts/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/manrope/Manrope%5Bwght%5D.ttf",
+      "license": "SIL Open Font License 1.1",
+      "license_file": "fonts/manrope-OFL.txt",
+      "derived_from": "Manrope 500; renamed static instance"
+    }
+  ]
+}
