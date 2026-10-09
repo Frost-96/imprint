@@ -1,16 +1,14 @@
 # Icon style choices and design language
 
-Read for every application-icon request before concept rendering. The [icon workflow](workflow.md) applies the shared selection rules and specifies icon scope and handoff. This reference discovers preferences and routes to construction guidance; the five choices below are an accessible menu, not mutually exclusive categories or a taxonomy for logos.
+Read before icon concepts. Apply shared [User choices](../../SKILL.md#user-choices); the [workflow](workflow.md) owns sequence, evidence, and presentation. The five starting choices are a composable menu, not a logo taxonomy.
 
 ## Discover the user's direction
 
-Reuse the user's desired feeling, accepted style, and supplied references. Inspect reference artwork and extract observable cues: simplification, silhouette, expression, framing, edges, palette, shading, texture, and depth. Distinguish style references from an asset to edit and from surrounding presentation. Preserve agreed identity features for edits; use style cues to develop original artwork for a new icon. A reference-led request normally establishes a direction without another full style menu.
+Inspect reference artwork for silhouette, expression, framing, edges, palette, shading, texture, and depth. Distinguish style cues from an asset to edit and from presentation effects. Following an accepted reference usually establishes direction without another style menu.
 
-When direction is open, offer a small set of plausible choices, normally three to five, in plain language. Describe the visible result, why it might suit this product, and a material trade-off; recommend one for consideration. Include combinations when they fit. Ask the user to choose, provide a reference, or delegate the exploration choice. If they are unsure, narrow the comparison with contrasting descriptions or offer inexpensive visual trials. Request the trial choice before generating unless the user has already asked for trials. Follow the workflow's selection rules; an unanswered question or lack of ideas is not permission to choose.
+When direction is open, offer brief-specific options with visible differences, fit, and trade-offs under User choices. For example, a journaling app might suit a quiet flat character, a paper illustration, or a geometric symbol; these are examples, not defaults. Explain unfamiliar terms. Resolve authorization for visual trials before generation unless trials are already requested.
 
-For example, a journaling app might explore a quiet character with broad flat colors, a paper illustration with one large motif, or a restrained geometric symbol. These are illustrative directions, not defaults for journals. Adapt the options to the actual product and preferred feeling. Use an available question interface for concise choices; explain unfamiliar terms instead of requiring design vocabulary.
-
-For requested style trials, keep the concept and display size as consistent as useful so the comparison tests treatment. For requested concept variety, vary subjects or relationships and label what changed. Show inspected artwork, not prompts presented as results. Style selection establishes an exploration direction; let evidence and user feedback refine it without silently replacing accepted cues.
+For style trials, keep concept and display size comparable; for concept trials, vary subjects/relationships. Label what changed and show inspected artwork, not prompts.
 
 ## Five starting choices
 
@@ -22,7 +20,7 @@ For requested style trials, keep the concept and display size as consistent as u
 | Dimensional form and material | Sculpted volume or a recognizable physical surface; lighting and detail can overwhelm the identifying form | [Dimensional rendering](dimensional.md) |
 | Pixel art | Designed pixel clusters, stepped contours, and a controlled palette; grid and scaling constrain details | [Pixel construction](pixel.md); retro is an optional mood |
 
-No choice is globally preferred. “Cartoon” describes character stylization here, while the other choices primarily describe rendering. Use the dimensions below to express overlaps rather than forcing a hybrid into only one guide. A static cartoon reference does not request motion; actual animation requires an explicit output scope.
+“Cartoon” describes the subject treatment; other choices primarily describe rendering. Combine them through the dimensions below. A static character reference does not request animation.
 
 ## Design language and reference routing
 
@@ -38,7 +36,7 @@ Record only decisions relevant to the current icon. This is an internal art-dire
 | Framing | Whole subject, head, close-up, crop, orientation, protected features under the target mask | [Workflow](workflow.md#structure-before-finish), plus the subject guide when present |
 | Feeling | Calm, playful, strange, restrained, retro, or another brief-specific quality | Translate into observable choices above; a mood word alone is insufficient |
 
-Choose the dominant rendering method and add only guidance that changes construction. Read every applicable guide before detailed rendering, then return to the workflow; do not read all guides by default. Examples:
+Read the dominant rendering guide and any subject/hybrid guidance that changes construction before detailed rendering. Examples:
 
 - A flat, bold-outline animal peeking into the tile uses **characters + graphic**. Peeking is framing; the outline is an edge treatment.
 - A felt creature uses **characters + dimensional**. Material selection does not replace face, pose, and silhouette design.
@@ -48,4 +46,4 @@ Choose the dominant rendering method and add only guidance that changes construc
 
 For hybrids, assign each influence a role and a precedence when rules conflict. If a pixel grid defines the deliverable, render shading and expression within that grid. If a drawn character is selected, preserve its agreed drawn edges instead of adding physical texture as automatic polish.
 
-Complete direction discovery when the record identifies the chosen or authorized trial directions, desired feeling, visible cues, fixed constraints, applicable references, and the user's choice or explicit delegation. Subject details can remain open for concept exploration.
+Direction is ready when the record identifies authorized directions, visible cues, constraints, and applicable guides. Subject details may remain open for concepts.

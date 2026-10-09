@@ -1,51 +1,47 @@
 # Asset production, verification, and brand handoff
 
-Read before final production, and earlier when source feasibility or rendering defects affect a design. These checks establish production readiness; inspection of the actual artwork supports visual and brand judgments. Use the main skill's scope and selection rules.
+Read before production, or earlier when source feasibility affects concept choice. Apply shared [selection](../SKILL.md#user-choices) and [completion rules](../SKILL.md#final-brand-handoff).
 
 ## Sources and exports
 
-For fonts used in identity artwork, including icon letters or monograms, record the typeface and source and verify its terms for the intended use. Permission to use a font does not establish permission to redistribute its files.
+For fonts, record typeface/source and verify intended-use terms separately from redistribution rights.
 
-- **Core logo:** Develop the chosen concept into actual editable vector geometry for the proposed final symbol, wordmark, or combination before requesting final-version selection. Export true SVG and transparent PNG from the master, with monochrome, reversed, and applicable color/light/dark variants. The approved monochrome structure is the foundation; preserve any approved later treatment in separate appropriate versions. A vector-looking bitmap or raster embedded in SVG is not a vector deliverable. Present the checked artwork and requested placements through the [logo workflow's final choice](logos/workflow.md#final-choice-and-handoff).
-- **Wordmark:** Preserve the exact selected name as editable outlines. For font-based lettering, also include a text-editable source. Identify custom lettering as outline artwork rather than claiming it is text-editable. Do not invent a wordmark for a symbol-only request.
-- **Lockup:** When included, compose symbol and wordmark with documented spacing and intended placement. A wordmark-only identity does not require a separate symbol.
-- **Product icon:** Retain the complete treatment, high-resolution master, actual vector/raster/layer sources, resolution, editability, and requested platform executions. A symbol SVG does not replace the icon. If material/lighting cannot be faithfully reconstructed, preserve the inspected raster and disclose raster-only delivery. Explicit vector-icon requirements need actual vector work or partial-delivery status. Use [platform execution](icons/platforms.md) from design onward; export native packages only when requested and validate their resources/tool compatibility. Distinguish static artwork, constructed packages, and tested native integration. Track final-version selection under the [icon workflow](icons/workflow.md#final-choice-and-handoff); production readiness alone does not establish user acceptance.
-- **Variants and previews:** Keep canonical logo, product-icon executions, and any small-size simplifications distinct and linked to their applicable uses. Store real rendered previews and test dimensions. An application mockup is not an export package.
+- **Logo:** Produce actual editable vector geometry before final selection. Export true SVG and transparent PNG, with monochrome, reversed, and applicable color/light/dark variants. Preserve the unadorned core separately from later treatments. A raster embedded in SVG is not vector artwork.
+- **Wordmark:** Preserve exact selected lettering as outlines; also supply a text-editable source for font-based lettering. Custom outlines are not live text. Document spacing for requested lockups.
+- **Product icon:** Preserve the complete high-resolution treatment, actual vector/raster/layer sources, resolution, editability, and requested platform executions. Disclose raster-only sources; explicit vector requirements need vector work. Follow [platform execution](icons/platforms.md) for requested native packages, distinguishing constructed files from tested integration.
+- **Variants/previews:** Link optical variants to assigned uses. Keep canonical assets, platform executions, and rendered evaluation scenes separate; mockups are not export packages.
 
 ## Clean up faithfully
 
-Preserve the selected silhouette, defining relationships, and approved appearance. Set exact colors, opacity, openings, and bounds in the editable master rather than relying on repeated raster prompting for exact pixels. Incidental shading, low-alpha residue, and presentation margins are not automatically design invariants. Compare cleanup/reconstruction with the selected design; material changes require appropriate design review and selection authority.
+Preserve the selected silhouette, defining relationships, and appearance. Set exact colors, opacity, openings, and bounds in the editable master rather than repeatedly prompting for exact pixels. Compare reconstructions with the selected artwork; incidental shading, residue, and presentation margins are not automatically invariants.
 
-Count intentional color families separately from antialiasing and incidental shading. A high unique-color count does not establish a gradient. Check alpha and composite on known backgrounds before interpreting a halo or backdrop. Distinguish opaque interior fills, transparent canvas, and partial-alpha residue. Viewer checkerboards or black backgrounds are not necessarily painted into the artwork.
+Distinguish intentional color families from antialiasing: many unique colors do not prove a gradient. Check alpha and composite on known backgrounds to distinguish opaque fills, transparent canvas, and partial-alpha residue; a viewer's checkerboard or black backdrop may not be painted into the file.
 
 ## Verify actual files
 
-1. Render every delivered SVG. Confirm real vector geometry, no embedded/linked raster artwork in core-logo vector masters, correct viewBox/bounds, and no clipping. Check that IDs are unique within each file and internal `url()`/`href` targets exist and resolve to the intended elements; successful rendering alone can hide ambiguous references. Outline masters work without installed fonts; documented text sources may depend on their font.
-2. Check spelling and consistency across the package. For font-based wordmarks, render text source and outline master at matching dimensions and compare glyphs/positions. Verify that the renderer loaded the documented font. Diagnose persistent differences at larger scale before attributing them to antialiasing.
-3. Render the applicable mark/icon at 1024, 256, 64, 32, and 16 px with preserved aspect ratio; product icons additionally use 128 px and their target environment tests. Record canvas dimensions and visible-art bounds. For non-square marks, define the study dimension and additionally test the actual intended width/height. Inspect at actual display size as well as enlarged diagnostic views. If the available viewer resizes everything, obtain a reliable actual-size view or mark that check incomplete.
-4. Inspect recognition, negative spaces, detail merging, optical center, edges, and weight. Test small-size variants independently; record which variant supports each size. Diagnose excessive canvas margins separately from the mark itself; normalized previews do not authorize changing approved clear space. Document unsupported uses/minimum size rather than claiming every rendering passes.
-5. For logos, inspect monochrome, reversed, and applicable light/dark variants on intended backgrounds. For product icons, inspect the requested platform appearances and any monochrome resource required by that platform; do not impose a separate monochrome-logo deliverable. Verify openings and boundaries, including overlaps and edited edges. Provide the appropriate variant and usage rule for each supported background.
-6. Verify PNG alpha, dimensions, color treatment, source correspondence, and that files open correctly. A painted checkerboard is not transparency. Retain intentional icon backgrounds; transparency requirements depend on the asset and target.
-7. Ensure the artifacts reviewed in final validation match the delivered versions. If production changes identity or appearance materially, repeat affected size/design checks on the changed files; do not rely on approval of an earlier image.
+Run the bundled [asset checker](asset-checker.md) against an explicit manifest of all required files. It checks file structure, SVG IDs/references, vector-logo restrictions, declared dimensions/alpha, and renders study sizes while recording hashes. Fix required failures; missing tools or unsupported checks remain unverified. Use an equivalent verified toolchain if dependencies are unavailable, retaining the same evidence and limitations.
 
-Record actual results and failed/unperformed checks. Creating a file or passing a format check does not prove visual usability.
+Inspect the actual generated previews for what the script cannot establish:
+
+- **Source fidelity:** Correct spelling, geometry, viewBox/framing, clipping, colors, and correspondence between sources and exports. Compare live-text and outline sources at matching dimensions and confirm the intended font loaded; investigate persistent differences before blaming antialiasing.
+- **Reduction:** Recognition, negative spaces, detail merging, optical balance and edges at actual display size, plus enlarged diagnostics. The checker uses long-edge raster pixels; additionally test actual intended width/height and platform contexts. Map optical variants to their assigned sizes, distinguish canvas margins from artwork, and record unsupported stress-test sizes separately from failed required uses. A resizing viewer cannot establish actual-size verification.
+- **Backgrounds:** Inspect logo monochrome/reversed versions and requested icon appearances on intended backgrounds. Check openings, overlaps, edited edges and halos; a painted checkerboard is not transparency. Preserve approved clear space and intentional icon backgrounds.
+
+Record visual findings against the exact report/assets and run its hash verification before handoff. Changed artwork requires affected file and visual checks again. A mechanical pass establishes neither visual usability nor user acceptance; unresolved required checks keep delivery provisional. Study sizes are not platform export specifications and do not add deliverables such as favicons.
 
 ## Brand Identity Package
 
-For a complete identity, provide the following compact package. For focused tasks, include relevant components and explicitly mark unrelated components outside scope. Do not create speculative extra assets to fill headings.
+Include only requested components. A useful layout is sources, exports, previews, and one usage/brand note; keep rejected alternatives and histories separate from production assets.
 
 | Component | Handoff content |
 | --- | --- |
-| Name | Selected name, canonical spelling/case/spacing, pronunciation, meaning or origin, territory and naming rationale; distinguish verified origin from designed meaning and a reviewed shortlist from a selected final name |
-| Brand | Product positioning, personality, traits, anti-traits and consequential assumptions |
-| Logo | Primary mark, wordmark/lockup when applicable, monochrome and reversed forms, core visual concept, geometry/construction logic and editable sources |
-| Product Icon | Concept/metaphor and product relationship; high-resolution master and actual sources; composition/color/material logic; requested platform and optical variants; environment evidence; usage and native-validation status; favicon only when in scope |
-| Color | Primary/supporting/neutral/background roles, exact values, and guidance on applicable logo variants or platform appearances |
-| Visual system, for a complete identity | Applicable display/body typography roles and usage terms; one representative application in an intended medium showing how the type, color, composition, or recurring form works beyond the standalone logo. Reuse a planned usage preview where it demonstrates this; do not invent collateral or production templates outside scope |
-| Usage | Clear space with a usable reference unit, measured minimum sizes by variant, recommended backgrounds, common misuse and small-size rules |
-| Rationale | Why the name and visual concepts were selected, how requested components share brand DNA without requiring identical shapes, fit the audience, and support plausible future development |
-| Validation | Actual screening scope/evidence; visual and production checks linked to the exact delivered artifacts; selected versions and choice authority recorded separately from readiness; resolved and remaining concerns; tested sizes/formats and unperformed checks |
+| Name | [Naming record](naming.md#final-choice-and-handoff), including canonical spelling, pronunciation, rationale, and evidence status |
+| Brand | Positioning, personality, traits/anti-traits, assumptions, and shared identity relationships |
+| Logo | Sources/variants above, concept and construction logic |
+| Product icon | Sources/executions above, metaphor, composition/color/material logic, optical assignments, context evidence, and native-validation status |
+| Color | Exact values, primary/supporting/neutral/background roles, and applicable variants |
+| Visual system, for complete identities | Typography roles/terms and one representative intended-use application showing type, color, and composition beyond the logo; reuse a planned preview where suitable |
+| Usage | Clear-space reference unit, measured minimum sizes per variant, backgrounds, common misuse, and reduction rules |
+| Validation | Selected versions/authority, exact-file checks, screening evidence, resolved/remaining concerns, and unperformed tests |
 
-Provide clear links to files in a durable workspace or user-selected folder. Include concise usage guidance, not only a presentation image. Keep working histories and rejected alternatives separate from approved production assets.
-
-A suitable structure is editable sources, exports, previews, and one usage/brand note; adapt names and organization to the task. Give the user the files they can actually use and state exact limitations. Apply [User choices](../SKILL.md#user-choices) to final selection; distinguish awaiting choice from production failures and respect shortlist/trial-only scope. Check the exact delivered versions against the requested scope and intended uses. Missing required formats, unresolved material defects, or incomplete required file/use checks mean a partial/provisional handoff. Preliminary external screening remains preliminary even when design and production are complete.
+Provide durable file links and concise usage guidance, with rationale connecting the requested components to the audience and plausible future development. Apply shared completion criteria; complete design/production does not upgrade preliminary external screening.
